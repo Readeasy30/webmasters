@@ -7,6 +7,7 @@ This repository organizes marketing for all current and future projects.
 - ReadEasy30
 - MathEasy30
 - PetNeeds.ai
+- Restaurant.ai
 
 ## Purpose
 
@@ -38,6 +39,16 @@ All education projects should feel:
 - confidence-building
 - practical
 - emotionally safe
+
+Restaurant.ai direction should feel:
+
+- local
+- trustworthy
+- fast
+- family-friendly
+- visually appetizing
+- mobile-first
+- AI-assisted but easy to use
 
 ## Workflow
 
