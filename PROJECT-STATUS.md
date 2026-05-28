@@ -74,11 +74,16 @@ Active SlotsFreeUSA files:
 - `SLOTSFREEUSA-30-DAY-MARKETING-CALENDAR.md`
 - `SLOTSFREEUSA-AFFILIATE-OUTREACH.md`
 - `SLOTSFREEUSA-SOCIAL-VIDEO-BATCH.md`
+- `SLOTSFREEUSA-WEEKLY-SEO-ARTICLE-QUEUE.md`
+- `SLOTSFREEUSA-CANVA-PROMPT-SHEET.md`
+- `SLOTSFREEUSA-PINTEREST-PIN-BATCH.md`
+- `SLOTSFREEUSA-REDDIT-DISCUSSION-BATCH.md`
+- `SLOTSFREEUSA-PARTNER-SCORING-SHEET.md`
 
 Current SlotsFreeUSA focus:
 
 - Keep the website independent and static.
-- Use marketing-system for planning, outreach, social/video content, and affiliate tracking.
+- Use marketing-system for planning, outreach, social/video content, visual assets, SEO queue, and partner scoring.
 - Do not add live affiliate links, live ad scripts, live tracking, or email collection until approval and privacy setup are ready.
 
 ## Completed Today
@@ -101,6 +106,11 @@ Current SlotsFreeUSA focus:
 - Added `SLOTSFREEUSA-30-DAY-MARKETING-CALENDAR.md`.
 - Added `SLOTSFREEUSA-AFFILIATE-OUTREACH.md`.
 - Added `SLOTSFREEUSA-SOCIAL-VIDEO-BATCH.md`.
+- Added `SLOTSFREEUSA-WEEKLY-SEO-ARTICLE-QUEUE.md`.
+- Added `SLOTSFREEUSA-CANVA-PROMPT-SHEET.md`.
+- Added `SLOTSFREEUSA-PINTEREST-PIN-BATCH.md`.
+- Added `SLOTSFREEUSA-REDDIT-DISCUSSION-BATCH.md`.
+- Added `SLOTSFREEUSA-PARTNER-SCORING-SHEET.md`.
 - Updated README links for the SlotsFreeUSA marketing execution files.
 
 ## Current Safe Queue
@@ -145,20 +155,19 @@ Current SlotsFreeUSA focus:
 
 ## Next Safe Build Queue
 
-1. Create a SlotsFreeUSA weekly SEO article queue.
-2. Create a SlotsFreeUSA Canva prompt sheet.
-3. Create a SlotsFreeUSA Pinterest pin batch.
-4. Create a SlotsFreeUSA Reddit-safe discussion batch.
-5. Create a SlotsFreeUSA LinkedIn business-building post batch.
-6. Create a partner review scoring sheet.
-7. Update README links as files are added.
-8. Build future starter/template repo plan with `AGENTS.md`, `PROJECT-STATUS.md`, `CODEX-WORKFLOW.md`, `README.md`, `robots.txt`, `sitemap.xml`, and basic SEO checklists.
+1. Retry LinkedIn business-building post batch later in smaller chunks or through Codex.
+2. Create a manual posting log for SlotsFreeUSA.
+3. Create first SEO article draft from the weekly queue.
+4. Create first Canva production checklist.
+5. Update README links as files are added.
+6. Build future starter/template repo plan with `AGENTS.md`, `PROJECT-STATUS.md`, `CODEX-WORKFLOW.md`, `README.md`, `robots.txt`, `sitemap.xml`, and basic SEO checklists.
 
 ## Blockers
 
 - Large direct replacement of `AGENTS.md` through the ChatGPT GitHub connector was blocked by tool safety checks. Codex should handle broader instruction-file replacements directly.
 - Automatic live posting cannot start until social accounts, posting permissions, platform rules, and approval workflow are configured.
 - SlotsFreeUSA live affiliate links, tracking, ads, and email collection are blocked until approvals, privacy, disclosure, and account setup are ready.
+- Creating `SLOTSFREEUSA-LINKEDIN-POST-BATCH.md` through the ChatGPT GitHub connector was blocked by tool safety checks. Retry later in smaller chunks or through Codex.
 
 ## Notes
 
