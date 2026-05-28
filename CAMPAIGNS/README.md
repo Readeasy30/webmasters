@@ -23,6 +23,7 @@ This folder holds reusable marketing campaigns for Wholelychit projects.
 | `education-7-day-social-post-batch.md` | 7 days of manual social posts for ReadEasy30 + MathEasy30 | Ready |
 | `education-10-shorts-scripts.md` | 10 short-video scripts for YouTube Shorts, Reels, TikTok, and Pinterest | Ready |
 | `education-canva-asset-prompts.md` | Canva prompt notes and asset list for launch graphics | Ready |
+| `education-canva-production-checklist.md` | First Canva production checklist and export plan | Ready |
 | `education-pinterest-pin-batch.md` | Pinterest pin titles, descriptions, URLs, and board ideas | Ready |
 | `education-reddit-safe-posts.md` | Discussion-first Reddit-safe post ideas and reply templates | Ready |
 | `education-professional-post-topics.md` | Professional networking post topics and links | Ready |
