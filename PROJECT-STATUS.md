@@ -37,25 +37,67 @@ Portfolio priority:
 4. RestaurantAIbot / Resturants.ai
 5. MathEasy30
 
+## ReadEasy30 Current Launch Focus
+
+ReadEasy30 is the active first education launch.
+
+The current strongest free traffic asset is the printable worksheet funnel:
+
+- `https://readeasy30.com/printable-reading-worksheets.html`
+- `https://readeasy30.com/functional-literacy-practice.html`
+- `https://readeasy30.com/functional-literacy-worksheet-1.html`
+- `https://readeasy30.com/functional-literacy-worksheet-2.html`
+- `https://readeasy30.com/functional-literacy-worksheet-3.html`
+
+The first practical-reading trio is complete:
+
+1. schedules and appointment notes
+2. signs and simple instructions
+3. forms and labels
+
+Use this as the first public traffic funnel for Pinterest, Facebook group-safe posts, Reddit-safe feedback posts, and library/nonprofit outreach.
+
+## ReadEasy30 Campaign Files Ready
+
+Core worksheet launch files:
+
+- `CAMPAIGNS/readeasy30-worksheet-launch-copy.md`
+- `CAMPAIGNS/readeasy30-functional-literacy-worksheet-1-launch-copy.md`
+- `CAMPAIGNS/readeasy30-functional-literacy-worksheet-2-launch-copy.md`
+- `CAMPAIGNS/readeasy30-functional-literacy-worksheet-3-launch-copy.md`
+
+Outreach files:
+
+- `CAMPAIGNS/readeasy30-library-nonprofit-outreach-kit.md`
+- `CAMPAIGNS/readeasy30-library-nonprofit-outreach-tracker.csv`
+- `CAMPAIGNS/easy30-outreach-tracking-template.csv`
+- `CAMPAIGNS/easy30-privacy-friendly-analytics-plan.md`
+- `CAMPAIGNS/easy30-launch-day-announcement-checklist.md`
+
+Older/general Week 1 ReadEasy30 files still available:
+
+- `CAMPAIGNS/readeasy30-week-1-launch-post-batch.md`
+- `CAMPAIGNS/readeasy30-week-1-canva-prompts.md`
+- `CAMPAIGNS/readeasy30-week-1-community-outreach.md`
+
 ## Live Site Updates Completed
 
 ### ReadEasy30
 
 - Added `math-practice-too.html` in `Wholelychit/readeasy30.com`.
 - Purpose: standalone sister-site page pointing ReadEasy30 visitors to MathEasy30.
-- Commit: `490c0a688afa5858615836b5369c1e29007ab745`
+- Added and linked the functional literacy worksheet funnel in `Wholelychit/readeasy30.com`.
+- Updated `PROJECT-STATUS.md` in `Wholelychit/readeasy30.com` after worksheet quality-control pass.
 
 ### MathEasy30
 
 - Added `reading-practice-too.html` in `Wholelychit/matheasy30.com`.
 - Purpose: standalone sister-site page pointing MathEasy30 visitors to ReadEasy30.
-- Commit: `856e0482dea39bbd88302e89c0c019739135c1c8`
 
 ### Blocked Live Edit
 
-- Direct `index.html` homepage update in `Wholelychit/readeasy30.com` was blocked by connector safety checks.
-- Workaround completed: added standalone sister-site page instead.
-- Next Codex task should link `math-practice-too.html` from the ReadEasy30 homepage, footer, and sitemap if safe.
+- Automatic live public-site checking from this chat could not open the ReadEasy30 public URLs directly through the web checker.
+- Manual browser QA is still required after deployment.
 
 ## Active Launch
 
@@ -69,33 +111,13 @@ Active launch file:
 
 - `CAMPAIGNS/monday-promotion-launch.md`
 
-Week 1 ReadEasy30 launch files:
-
-- `CAMPAIGNS/readeasy30-week-1-launch-post-batch.md`
-- `CAMPAIGNS/readeasy30-week-1-canva-prompts.md`
-- `CAMPAIGNS/readeasy30-week-1-community-outreach.md`
-
-Ready education promotion files include:
-
-- `CAMPAIGNS/education-7-day-social-post-batch.md`
-- `CAMPAIGNS/education-10-shorts-scripts.md`
-- `CAMPAIGNS/education-canva-asset-prompts.md`
-- `CAMPAIGNS/education-canva-production-checklist.md`
-- `CAMPAIGNS/education-pinterest-pin-batch.md`
-- `CAMPAIGNS/education-reddit-safe-posts.md`
-- `CAMPAIGNS/education-professional-post-topics.md`
-- `CAMPAIGNS/education-facebook-parent-helper-posts.md`
-- `CAMPAIGNS/education-manual-posting-log.md`
-- `CAMPAIGNS/education-seo-article-reading-practice-draft.md`
-- `CAMPAIGNS/education-seo-article-adult-reading-practice-draft.md`
-- `CAMPAIGNS/education-seo-article-esl-reading-practice-draft.md`
-
 Launch focus:
 
 - Promote ReadEasy30 first.
-- Mention MathEasy30 as sister site.
+- Use the worksheet hub as the easiest first traffic destination.
+- Mention MathEasy30 as a sister site only when helpful.
 - Use no-shame, calm daily-practice language.
-- Drive traffic to `https://readeasy30.com/app.html`, `https://readeasy30.com/calm-reading-practice-30-minutes-a-day.html`, `https://readeasy30.com/adult-reading-practice-without-shame.html`, `https://readeasy30.com/esl-reading-practice.html`, and `https://readeasy30.com/reading-levels-beginner-to-8th-grade.html`.
+- Drive traffic first to `https://readeasy30.com/printable-reading-worksheets.html` and the three functional literacy worksheets.
 
 ## SlotsFreeUSA Current Prep Files
 
@@ -154,6 +176,7 @@ Use these to grow MathEasy30 through ReadEasy30 as a calm sister practice site:
 - `MATHEASY30-CROSS-PROMOTION-PLAN.md`
 - `MATHEASY30-SISTER-SITE-CARD-COPY.md`
 - `MATHEASY30-SOCIAL-CANVA-BATCH.md`
+- `CAMPAIGNS/matheasy30-completion-cross-promotion-plan.md`
 
 MathEasy30 status:
 
@@ -164,56 +187,19 @@ MathEasy30 status:
 
 ## Completed Today
 
-- Strengthened `AGENTS.md` safe-work wording.
-- Strengthened `AGENT-INSTRUCTIONS.md` safe-work wording.
-- Added shared education growth plan.
-- Added campaigns folder index.
-- Added first ReadEasy30 + MathEasy30 confidence campaign.
-- Updated README to point future work to the new education plan and campaign files.
-- Added `CODEX-WORKFLOW.md` to document Codex-first repo editing.
-- Added `CAMPAIGNS/monday-promotion-launch.md`.
-- Added `CAMPAIGNS/monday-launch-one-page-checklist.md` as the first file to open on launch day.
-- Added education social, video, Canva, Pinterest, Reddit, professional, Facebook, and posting-log files.
-- Added `CAMPAIGNS/education-seo-article-reading-practice-draft.md`.
-- Added `CAMPAIGNS/education-seo-article-adult-reading-practice-draft.md`.
-- Added `CAMPAIGNS/education-seo-article-esl-reading-practice-draft.md`.
-- Updated `CAMPAIGNS/education-manual-posting-log.md` to include the Calm Reading article as a Monday priority link.
-- Updated `CAMPAIGNS/education-manual-posting-log.md` to include the Adult Reading Without Shame page.
-- Updated `CAMPAIGNS/README.md` with a compact campaign index including the ESL reading SEO draft.
-- Added `WHOLELYCHIT-5-SITE-MARKETING-PLAN.md`.
-- Added `WHOLELYCHIT-5-SITE-WEEKLY-ACTION-CALENDAR.md`.
-- Updated `README.md` to link the 5-site portfolio marketing files.
-- Updated `PROJECT-STATUS.md` to lock the 5-site marketing direction.
-- Added `CAMPAIGNS/readeasy30-week-1-launch-post-batch.md`.
-- Added `CAMPAIGNS/readeasy30-week-1-canva-prompts.md`.
-- Added `CAMPAIGNS/readeasy30-week-1-community-outreach.md`.
-- Updated `CAMPAIGNS/README.md` to list the Week 1 ReadEasy30 launch assets.
-- Updated `PROJECT-STATUS.md` to lock Week 1 launch assets.
-- Added `SLOTSFREEUSA-TRUST-AFFILIATE-PREP.md`.
-- Added `SLOTSFREEUSA-BEGINNER-GUIDE-DRAFT.md`.
-- Added `SLOTSFREEUSA-RESPONSIBLE-PLAY-PAGE-DRAFT.md`.
-- Updated `README.md` to list the SlotsFreeUSA trust and SEO prep files.
-- Updated `PROJECT-STATUS.md` to lock SlotsFreeUSA prep files.
-- Added `PETNEEDS-AI-CATEGORY-CONTENT-PLAN.md`.
-- Added `PETNEEDS-AI-NEW-PUPPY-CHECKLIST-DRAFT.md`.
-- Added `PETNEEDS-AI-TURTLE-FOUND-OUTSIDE-DRAFT.md`.
-- Added `PETNEEDS-AI-SOCIAL-CANVA-BATCH.md`.
-- Updated `README.md` to list the PetNeeds.ai content files.
-- Updated `PROJECT-STATUS.md` to lock PetNeeds.ai content files.
-- Added `RESTURANTS-AI-STARTER-OFFER-PLAN.md`.
-- Added `RESTURANTS-AI-HOMEPAGE-COPY-DRAFT.md`.
-- Added `RESTURANTS-AI-SAMPLE-AUDIT-TEMPLATE.md`.
-- Added `RESTURANTS-AI-SOCIAL-CANVA-BATCH.md`.
-- Updated `README.md` to list the Resturants.ai growth files.
-- Updated `PROJECT-STATUS.md` to lock Resturants.ai growth files.
-- Added `MATHEASY30-CROSS-PROMOTION-PLAN.md`.
-- Added `MATHEASY30-SISTER-SITE-CARD-COPY.md`.
-- Added `MATHEASY30-SOCIAL-CANVA-BATCH.md`.
-- Updated `README.md` to list MathEasy30 cross-promotion files.
-- Updated `PROJECT-STATUS.md` to lock MathEasy30 cross-promotion files.
-- Added `math-practice-too.html` to ReadEasy30 live repo.
-- Added `reading-practice-too.html` to MathEasy30 live repo.
-- Updated `PROJECT-STATUS.md` to record the live sister-site page updates and blocked homepage edit.
+- Added and linked `worksheet.html` upgrades for the free printable worksheet funnel.
+- Added `functional-literacy-practice.html`.
+- Upgraded `adult-reading-practice-without-shame.html`.
+- Upgraded `esl-reading-practice.html`.
+- Added `functional-literacy-worksheet-1.html` for schedules and appointment notes.
+- Added `functional-literacy-worksheet-2.html` for signs and simple instructions.
+- Added `functional-literacy-worksheet-3.html` for forms and labels.
+- Linked the functional literacy worksheets from `printable-reading-worksheets.html`.
+- Added all three functional literacy worksheets to `sitemap.xml`.
+- Added launch copy for the worksheet funnel in `Wholelychit/marketing-system`.
+- Added library/nonprofit outreach kit and tracker.
+- Updated ReadEasy30 `PROJECT-STATUS.md` after quality-control pass.
+- Updated this marketing-system `PROJECT-STATUS.md` to lock the current worksheet launch funnel.
 
 ## Current Safe Queue
 
@@ -223,24 +209,23 @@ MathEasy30 status:
 4. Use `WHOLELYCHIT-5-SITE-MARKETING-PLAN.md` as the master portfolio strategy.
 5. Use `WHOLELYCHIT-5-SITE-WEEKLY-ACTION-CALENDAR.md` to prevent jumping between projects.
 6. Use `CAMPAIGNS/monday-launch-one-page-checklist.md` as the first launch-day file.
-7. Use `CAMPAIGNS/readeasy30-week-1-launch-post-batch.md` for Week 1 posting.
-8. Use `CAMPAIGNS/readeasy30-week-1-canva-prompts.md` for Week 1 Canva graphics.
-9. Use `CAMPAIGNS/readeasy30-week-1-community-outreach.md` for manual outreach.
-10. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
-11. Use SlotsFreeUSA prep files to build trust pages and first beginner SEO page.
-12. Keep SlotsFreeUSA CTAs inactive until partner approval and final review.
-13. Use PetNeeds.ai content files to build first pet category pages.
-14. Use Resturants.ai files to build first owner-facing website copy and sample audit/checkup offer.
-15. Use MathEasy30 files to add sister-site cross-promotion and first math social/Canva assets.
-16. Next safe step: use Codex to link the new sister-site pages from homepages/sitemaps if connector direct updates remain blocked.
+7. Use the functional literacy worksheet launch-copy files for the first ReadEasy30 promotion wave.
+8. Use `CAMPAIGNS/readeasy30-library-nonprofit-outreach-kit.md` for the first 10-contact outreach batch.
+9. Use `CAMPAIGNS/easy30-outreach-tracking-template.csv` and `CAMPAIGNS/readeasy30-library-nonprofit-outreach-tracker.csv` to track posts and contacts.
+10. Do manual browser QA on the worksheet hub and three functional literacy worksheets after Cloudflare deploys.
+11. Use Cloudflare analytics only; do not add tracking scripts.
+12. Use SlotsFreeUSA prep files to build trust pages and first beginner SEO page later.
+13. Keep SlotsFreeUSA CTAs inactive until partner approval and final review.
+14. Use PetNeeds.ai content files to build first pet category pages later.
+15. Use Resturants.ai files to build first owner-facing website copy and sample audit/checkup offer later.
+16. Use MathEasy30 files to add sister-site cross-promotion and first math social/Canva assets later.
 17. Record blockers instead of stopping.
 
 ## Blockers
 
 - Automatic live posting cannot start until social accounts, posting permissions, platform rules, and approval workflow are configured.
-- Education LinkedIn-specific post batch was blocked repeatedly by connector safety checks. Workaround committed: `CAMPAIGNS/education-professional-post-topics.md`.
-- Full campaign index update was blocked once by connector safety checks. A compact index update committed successfully.
-- Direct ReadEasy30 homepage update was blocked by connector safety checks. Workaround committed: standalone `math-practice-too.html` page.
+- Manual browser QA is still required after public deployment.
+- Automatic live public-site checking from this chat could not open the ReadEasy30 public URLs directly through the web checker.
 - Do not add live ads, live tracking, payment setup, affiliate links, public AI tools, uploads, user accounts, diagnosis claims, ordering integrations, live chatbots, guaranteed-result claims, official grade-placement claims, or automated outreach without direct approval.
 
 ## Notes
