@@ -6,6 +6,14 @@ This folder holds reusable marketing campaigns for Wholelychit projects.
 
 - `monday-promotion-launch.md`
 
+## Week 1 ReadEasy30 Launch Assets
+
+Use these first for the current ReadEasy30 + MathEasy30 launch push:
+
+- `readeasy30-week-1-launch-post-batch.md` — 7-day launch posts, short captions, and hashtag bank.
+- `readeasy30-week-1-canva-prompts.md` — Canva prompts for launch graphics, pins, and sister-site visuals.
+- `readeasy30-week-1-community-outreach.md` — manual outreach copy for libraries, churches, tutors, homeschool groups, adult learners, and ESL groups.
+
 ## Monday Promotion Assets
 
 - `education-7-day-social-post-batch.md`
@@ -43,3 +51,6 @@ This folder holds reusable marketing campaigns for Wholelychit projects.
 - Parent/tutor worksheet preview.
 - Homeschool helper week.
 - Summer practice routine.
+- SlotsFreeUSA trust-first affiliate prep.
+- PetNeeds.ai starter category push.
+- RestaurantAIbot / Resturants.ai local owner starter offer.
