@@ -110,6 +110,23 @@ PetNeeds.ai status:
 - Social and Canva starter batch is ready.
 - Live affiliate links, local ads, user uploads, public AI tools, and diagnosis claims remain blocked until approval and final review.
 
+## Resturants.ai / RestaurantAIbot Current Files
+
+Use these for the local restaurant starter offer and owner-facing marketing system:
+
+- `RESTURANTS-AI-STARTER-OFFER-PLAN.md`
+- `RESTURANTS-AI-HOMEPAGE-COPY-DRAFT.md`
+- `RESTURANTS-AI-SAMPLE-AUDIT-TEMPLATE.md`
+- `RESTURANTS-AI-SOCIAL-CANVA-BATCH.md`
+
+Resturants.ai status:
+
+- Starter offer is drafted.
+- Homepage copy is ready for future site update.
+- Sample audit/checkup template is ready.
+- Social and Canva starter batch is ready.
+- Payment setup, ordering integration, live chatbot, tracking, automated outreach, and guaranteed-result claims remain blocked until approval and final review.
+
 ## Completed Today
 
 - Strengthened `AGENTS.md` safe-work wording.
@@ -148,6 +165,12 @@ PetNeeds.ai status:
 - Added `PETNEEDS-AI-SOCIAL-CANVA-BATCH.md`.
 - Updated `README.md` to list the PetNeeds.ai content files.
 - Updated `PROJECT-STATUS.md` to lock PetNeeds.ai content files.
+- Added `RESTURANTS-AI-STARTER-OFFER-PLAN.md`.
+- Added `RESTURANTS-AI-HOMEPAGE-COPY-DRAFT.md`.
+- Added `RESTURANTS-AI-SAMPLE-AUDIT-TEMPLATE.md`.
+- Added `RESTURANTS-AI-SOCIAL-CANVA-BATCH.md`.
+- Updated `README.md` to list the Resturants.ai growth files.
+- Updated `PROJECT-STATUS.md` to lock Resturants.ai growth files.
 
 ## Current Safe Queue
 
@@ -164,8 +187,8 @@ PetNeeds.ai status:
 11. Use SlotsFreeUSA prep files to build trust pages and first beginner SEO page.
 12. Keep SlotsFreeUSA CTAs inactive until partner approval and final review.
 13. Use PetNeeds.ai content files to build first pet category pages.
-14. Clarify RestaurantAIbot / Resturants.ai starter offer next.
-15. Cross-promote MathEasy30 through ReadEasy30 as the sister practice site.
+14. Use Resturants.ai files to build first owner-facing website copy and sample audit/checkup offer.
+15. Build MathEasy30 cross-promotion assets next.
 16. Record blockers instead of stopping.
 
 ## Blockers
@@ -173,7 +196,7 @@ PetNeeds.ai status:
 - Automatic live posting cannot start until social accounts, posting permissions, platform rules, and approval workflow are configured.
 - Education LinkedIn-specific post batch was blocked repeatedly by connector safety checks. Workaround committed: `CAMPAIGNS/education-professional-post-topics.md`.
 - Full campaign index update was blocked once by connector safety checks. A compact index update committed successfully.
-- Do not add live ads, live tracking, payment setup, affiliate links, public AI tools, uploads, user accounts, diagnosis claims, or automated outreach without direct approval.
+- Do not add live ads, live tracking, payment setup, affiliate links, public AI tools, uploads, user accounts, diagnosis claims, ordering integrations, live chatbots, guaranteed-result claims, or automated outreach without direct approval.
 
 ## Notes
 
