@@ -49,6 +49,12 @@ Active launch file:
 
 - `CAMPAIGNS/monday-promotion-launch.md`
 
+Week 1 ReadEasy30 launch files:
+
+- `CAMPAIGNS/readeasy30-week-1-launch-post-batch.md`
+- `CAMPAIGNS/readeasy30-week-1-canva-prompts.md`
+- `CAMPAIGNS/readeasy30-week-1-community-outreach.md`
+
 Ready education promotion files include:
 
 - `CAMPAIGNS/education-7-day-social-post-batch.md`
@@ -93,6 +99,11 @@ Launch focus:
 - Added `WHOLELYCHIT-5-SITE-WEEKLY-ACTION-CALENDAR.md`.
 - Updated `README.md` to link the 5-site portfolio marketing files.
 - Updated `PROJECT-STATUS.md` to lock the 5-site marketing direction.
+- Added `CAMPAIGNS/readeasy30-week-1-launch-post-batch.md`.
+- Added `CAMPAIGNS/readeasy30-week-1-canva-prompts.md`.
+- Added `CAMPAIGNS/readeasy30-week-1-community-outreach.md`.
+- Updated `CAMPAIGNS/README.md` to list the Week 1 ReadEasy30 launch assets.
+- Updated `PROJECT-STATUS.md` to lock Week 1 launch assets.
 
 ## Current Safe Queue
 
@@ -102,15 +113,16 @@ Launch focus:
 4. Use `WHOLELYCHIT-5-SITE-MARKETING-PLAN.md` as the master portfolio strategy.
 5. Use `WHOLELYCHIT-5-SITE-WEEKLY-ACTION-CALENDAR.md` to prevent jumping between projects.
 6. Use `CAMPAIGNS/monday-launch-one-page-checklist.md` as the first launch-day file.
-7. Use the education campaign files for Monday manual promotion.
-8. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
-9. Use the Calm Reading, Adult Reading Without Shame, and ESL Reading pages as priority promotion links.
-10. Use `CAMPAIGNS/education-canva-production-checklist.md` to produce first launch images.
-11. Build SlotsFreeUSA trust/affiliate prep after the ReadEasy30 launch push.
-12. Build PetNeeds.ai category content after SlotsFreeUSA prep.
-13. Clarify RestaurantAIbot / Resturants.ai starter offer after PetNeeds.ai category planning.
-14. Cross-promote MathEasy30 through ReadEasy30 as the sister practice site.
-15. Record blockers instead of stopping.
+7. Use `CAMPAIGNS/readeasy30-week-1-launch-post-batch.md` for Week 1 posting.
+8. Use `CAMPAIGNS/readeasy30-week-1-canva-prompts.md` for Week 1 Canva graphics.
+9. Use `CAMPAIGNS/readeasy30-week-1-community-outreach.md` for manual outreach.
+10. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
+11. Use the Calm Reading, Adult Reading Without Shame, and ESL Reading pages as priority promotion links.
+12. Build SlotsFreeUSA trust/affiliate prep after the ReadEasy30 launch push.
+13. Build PetNeeds.ai category content after SlotsFreeUSA prep.
+14. Clarify RestaurantAIbot / Resturants.ai starter offer after PetNeeds.ai category planning.
+15. Cross-promote MathEasy30 through ReadEasy30 as the sister practice site.
+16. Record blockers instead of stopping.
 
 ## Blockers
 
