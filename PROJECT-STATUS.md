@@ -35,6 +35,9 @@ New marketing execution files:
 
 - `PORTFOLIO-WEEKLY-EXECUTION-BOARD.md`
 - `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md`
+- `RESTURANTS-AI-PLATFORM-POSTS-BATCH-01.md`
+- `RESTURANTS-AI-CANVA-GRAPHICS-QUEUE.md`
+- `RESTURANTS-AI-14-DAY-PUBLISHING-SCHEDULE.md`
 - `CAMPAIGN-PUBLISHING-TRACKER.md`
 - `CHANGELOG.md`
 
@@ -46,19 +49,22 @@ RestaurantAIbot / Resturants.ai owner-resource promotion.
 
 Website repo already has owner resource pages. Marketing-system now has matching campaign assets:
 
-- social captions
+- platform-ready posts
 - short video scripts
-- Canva prompts
+- Canva graphics queue
+- Pinterest pin prompts
+- YouTube Shorts descriptions
+- 14-day publishing schedule
 - email/newsletter draft
 - campaign CTA direction
 - manual success metrics
 
 Next useful actions:
 
-1. Create first 3 Canva graphics from `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md`.
-2. Turn the first 3 captions into publish-ready platform posts.
-3. Create a simple one-page Restaurant Growth Starter Checkup PDF later if requested.
-4. Add a reusable `PUBLISHING-QUEUE.md` if campaign volume grows.
+1. Create the first 3 Canva graphics from `RESTURANTS-AI-CANVA-GRAPHICS-QUEUE.md`.
+2. Publish Day 1 to Day 3 from `RESTURANTS-AI-14-DAY-PUBLISHING-SCHEDULE.md`.
+3. Track published links in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+4. Create a simple one-page Restaurant Growth Starter Checkup PDF later if requested.
 
 ## Education Outreach Repair Added
 
@@ -128,13 +134,14 @@ BransonBlastUSA should use the shared avatar/video system from this repo, then s
 
 ## Current Safe Queue
 
-1. Use `PORTFOLIO-WEEKLY-EXECUTION-BOARD.md` to pick one weekly focus.
-2. Use `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md` to create the first RestaurantAIbot Canva/social batch.
-3. Track published assets in `CAMPAIGN-PUBLISHING-TRACKER.md`.
-4. Continue ReadEasy30 + MathEasy30 outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
-5. Produce the first 3 education short videos from `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md`.
-6. Continue BransonBlastUSA static repo repair later: `script.js`, `robots.txt`, `sitemap.xml`, status files, and CSS completion if needed.
-7. Record blockers instead of stopping.
+1. Use `RESTURANTS-AI-14-DAY-PUBLISHING-SCHEDULE.md` for the first owner-resource campaign push.
+2. Create Canva graphics from `RESTURANTS-AI-CANVA-GRAPHICS-QUEUE.md`.
+3. Publish platform posts from `RESTURANTS-AI-PLATFORM-POSTS-BATCH-01.md`.
+4. Track published assets in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+5. Continue ReadEasy30 + MathEasy30 outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
+6. Produce the first 3 education short videos from `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md`.
+7. Continue BransonBlastUSA static repo repair later: `script.js`, `robots.txt`, `sitemap.xml`, status files, and CSS completion if needed.
+8. Record blockers instead of stopping.
 
 ## Current Blockers
 
