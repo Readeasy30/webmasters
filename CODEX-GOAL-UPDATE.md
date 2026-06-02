@@ -2,19 +2,23 @@
 
 Last updated: 2026-06-02
 
+Master copy: `Wholelychit/marketing-system/CODEX-GOAL-UPDATE.md`
+
+This directive applies to all Wholelychit repositories unless a repo has a more specific safety rule.
+
 ## Main business goal
 
-Build a connected group of simple, fast, useful websites that can grow traffic, earn income, and be managed by one person using ChatGPT, Codex, GitHub, Canva, and Cloudflare Pages.
+Build a connected group of simple, fast, useful websites and tools that can grow traffic, earn income, and be managed by one person using ChatGPT, Codex, GitHub, Canva, and Cloudflare Pages.
 
 The websites must be easy for regular visitors to understand. Consumer-facing copy should usually be written around a 7th- to 9th-grade reading level.
 
-## Current production workflow goal
+## Production workflow goal
 
 Use this workflow whenever possible:
 
 1. ChatGPT 5.5 manages strategy, planning, copy, prompts, and priorities.
 2. Codex performs safe repository work directly.
-3. GitHub stores the code and commit history.
+3. GitHub stores files and commit history.
 4. Cloudflare Pages publishes from GitHub.
 5. Gerry should not be asked to paste, create, replace, or manually edit files unless there is a real blocker.
 
@@ -24,7 +28,7 @@ Codex should act like a production assistant, not a question machine.
 
 Do this:
 
-- Read existing repo instructions first.
+- Read existing repo instructions first: `README.md`, `AGENTS.md`, `AGENT-INSTRUCTIONS.md`, `CODEX-WORKFLOW.md`, `CODEX-CURRENT-TASK.md`, `PROJECT-STATUS.md`, and this file when present.
 - Keep the current tech stack.
 - Make useful safe updates in batches.
 - Commit each useful safe batch with a clear message.
@@ -34,17 +38,18 @@ Do this:
 
 Do not do this without direct approval:
 
-- Add private keys, API keys, tokens, or secrets.
-- Add live ads, live tracking, payment setup, ordering, or affiliate links.
-- Add public AI tools, uploads, accounts, or databases.
+- Add private keys, API keys, tokens, passwords, or secrets.
+- Add live ads, live tracking, payment setup, ordering, or live affiliate links.
+- Add public AI tools, uploads, user accounts, databases, or forms that collect sensitive data.
 - Switch to React, Vite, Next.js, TypeScript, or build tools unless the repo already uses them.
 - Delete major working code.
+- For trading or financial repos, do not add broker credentials, live order placement, automated trading execution, or financial-risk behavior without direct approval.
 
-## Current website goals
+## Website and repo goals
 
 ### ReadEasy30
 
-Goal: Build a calm 30-day reading-practice website for struggling readers, ESL learners, older learners, children, parents, and helpers.
+Build a calm 30-day reading-practice website for struggling readers, ESL learners, older learners, children, parents, and helpers.
 
 Priorities:
 
@@ -56,7 +61,7 @@ Priorities:
 
 ### Petneeds.ai
 
-Goal: Build a helpful pet education and pet photo community site that can later earn income from ads, affiliates, local sponsors, and partner content.
+Build a helpful pet education and pet photo community site that can later earn income from ads, affiliates, local sponsors, and partner content.
 
 Priorities:
 
@@ -67,7 +72,7 @@ Priorities:
 
 ### SlotsFreeUSA
 
-Goal: Build a responsible free slot demo and casino affiliate content site for U.S. visitors.
+Build a responsible free slot demo and casino affiliate content site for U.S. visitors.
 
 Priorities:
 
@@ -78,7 +83,7 @@ Priorities:
 
 ### RestaurantAIbot
 
-Goal: Build a restaurant discovery and AI assistant website that can become useful for visitors and restaurant owners.
+Build a restaurant discovery and AI assistant website that can become useful for visitors and restaurant owners.
 
 Priorities:
 
@@ -86,9 +91,37 @@ Priorities:
 - Keep content practical and simple.
 - Prepare future monetization through restaurant leads, sponsored placements, and service offers.
 
+### MathEasy30
+
+Build a simple math-practice website using the same calm, step-by-step approach as ReadEasy30.
+
+Priorities:
+
+- Keep lessons clear and beginner-friendly.
+- Use plain language and simple examples.
+- Build structure before adding advanced features.
+
+### BransonBlastUSA
+
+Build a local Branson-focused website that can grow traffic through useful local content, event-style pages, visitor guides, and sponsor opportunities.
+
+Priorities:
+
+- Keep local visitor intent clear.
+- Prepare sponsor/ad opportunities without adding live ads or tracking until approved.
+
+### OzarkWebmasters
+
+Build a small-business web services site for local businesses.
+
+Priorities:
+
+- Sell practical website, local SEO, and AI receptionist/service ideas.
+- Keep copy clear, benefit-focused, and easy for small-business owners to understand.
+
 ### Marketing-system
 
-Goal: Build reusable marketing assets, copy, checklists, and prompts that help all Wholelychit websites grow faster without repeating work.
+Build reusable marketing assets, copy, checklists, and prompts that help all Wholelychit websites grow faster without repeating work.
 
 Priorities:
 
