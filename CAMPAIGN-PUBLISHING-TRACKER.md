@@ -24,6 +24,7 @@ Track manually first. Do not add live analytics, tracking scripts, paid tools, o
 
 | Date | Project | Campaign | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|---|---|
+| 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Video 01 Canva design — Homework fight? Try this. | Designed | Edit: https://www.canva.com/d/-AsIThP__kPG-JB / View: https://www.canva.com/d/9HUPx5iVymvseJp | Review in Canva, export MP4, then post using `video-system/production-runs/2026-06-03-upload-captions-metadata.md` |
 | 2026-06-03 | ReadEasy30 + MathEasy30 | 30 Minutes. One Calm Step. | Day 1 publishing packet | Drafted | `EDUCATION-DAY-1-PUBLISHING-PACKET.md` | Create Canva Card 1, manually post, then paste live links into tracker |
 | 2026-06-02 | RestaurantAIbot | Owner Resource Campaign | Owner resource pages | Published | `Wholelychit/restaurantaibot.com` | Promote with captions and Canva graphics |
 | 2026-06-02 | RestaurantAIbot | Owner Resource Campaign | Captions, video scripts, Canva prompts | Drafted | `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md` | Create first 3 Canva graphics |
