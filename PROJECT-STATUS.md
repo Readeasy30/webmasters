@@ -23,7 +23,7 @@ Sites covered:
 5. PetNeeds.ai
 6. BransonBlastUSA
 
-## Current Marketing Execution Layer Added
+## Current Marketing Execution Layer
 
 Decision locked:
 
@@ -31,126 +31,108 @@ Decision locked:
 - Website code stays in each website repo.
 - Marketing repo stores strategy, captions, scripts, Canva prompts, campaign tracking, outreach rules, and review-control files.
 
-New marketing execution files:
+Core marketing execution files:
 
 - `PORTFOLIO-WEEKLY-EXECUTION-BOARD.md`
-- `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md`
-- `RESTURANTS-AI-PLATFORM-POSTS-BATCH-01.md`
-- `RESTURANTS-AI-CANVA-GRAPHICS-QUEUE.md`
-- `RESTURANTS-AI-14-DAY-PUBLISHING-SCHEDULE.md`
 - `CAMPAIGN-PUBLISHING-TRACKER.md`
 - `CHANGELOG.md`
 
-## Education Marketing Activation Added
+## Active Education Campaign
 
 Decision locked:
 
-- ReadEasy30 and MathEasy30 are now the active education marketing campaign.
-- The campaign name is `30 Minutes. One Calm Step.`
+- ReadEasy30 and MathEasy30 are the active education marketing campaign.
+- Campaign name: `30 Minutes. One Calm Step.`
 - The sites already cross-link: ReadEasy30 links to MathEasy30, and MathEasy30 links to ReadEasy30.
-- Marketing activation now means publish-ready manual assets, Canva prompts, outreach rules, and campaign tracking.
+- Marketing activation means publish-ready manual assets, Canva designs, outreach rules, video scripts, avatar assets, and campaign tracking.
 - It does not mean live ads, tracking scripts, payment setup, bulk email, scraping, or social-account automation.
 
-New education activation files:
+## 7-Day Education Campaign Packets Completed
+
+Publishing packets now created:
+
+1. `EDUCATION-DAY-1-PUBLISHING-PACKET.md` — intro campaign post.
+2. `EDUCATION-DAY-2-PUBLISHING-PACKET.md` — parent/helper pressure-lowering post.
+3. `EDUCATION-DAY-3-PUBLISHING-PACKET.md` — printable resources post.
+4. `EDUCATION-DAY-4-PUBLISHING-PACKET.md` — adult learner / respectful practice post.
+5. `EDUCATION-DAY-5-PUBLISHING-PACKET.md` — community helper outreach post and contact-form scripts.
+6. `EDUCATION-DAY-6-SHORT-VIDEO-PUBLISHING-PACKET.md` — first short-video batch.
+7. `EDUCATION-DAY-7-REVIEW-PACKET.md` — review, blockers, and Week 2 reuse direction.
+
+Supporting files:
 
 - `EDUCATION-MARKETING-ACTIVATION-BOARD.md`
 - `EDUCATION-SOCIAL-POSTS-BATCH-01.md`
 - `EDUCATION-CANVA-ACTIVATION-QUEUE.md`
 - `EDUCATION-FIRST-3-CANVA-CARDS.md`
-- `EDUCATION-DAY-1-PUBLISHING-PACKET.md`
 - `EDUCATION-WEEK-1-MANUAL-QUEUE.md`
 - `EDUCATION-NEXT-STEPS.md`
 
-Current created campaign asset:
+## Canva Assets Prepared
 
-- Canva Card 1: `Facebook Post - 30 Minutes. One Calm Step.`
-- Edit link: `https://www.canva.com/d/5cpwT_p5Glz9S5K`
-- View link: `https://www.canva.com/d/edVwn3ZWJEC4Rhw`
+### Social cards
 
-Updated activation tracking:
+1. Canva Card 1 — 30 Minutes. One Calm Step.
+   - Edit: `https://www.canva.com/d/cAqhrbhNDjRWro6`
+   - View: `https://www.canva.com/d/-SG5XIl1Pp3v0jX`
 
-- `CAMPAIGN-PUBLISHING-TRACKER.md`
+2. Canva Card 2 — Lower the pressure.
+   - Edit: `https://www.canva.com/d/PrELr6LCOOJT0i_`
+   - View: `https://www.canva.com/d/X8uTYcUsanr1DWZ`
 
-Current education activation queue:
+3. Card 3 — Free Printable Practice
+   - Status: Canva generator blocked twice.
+   - Action: Use existing worksheet pins instead.
 
-1. Review/export Canva Card 1 from Canva.
-2. Manually publish Day 1 Facebook, LinkedIn, and Pinterest posts when accounts are ready.
-3. Record published or blocked items in `CAMPAIGN-PUBLISHING-TRACKER.md`.
-4. Follow Day 2 in `EDUCATION-WEEK-1-MANUAL-QUEUE.md` after Day 1 is published or blocked.
-5. Continue safe contact-form outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
-6. Produce education short videos 1 to 3 only using the Canva-first workflow.
+### Worksheet pins
 
-## RestaurantAIbot Campaign Status
+1. Reading worksheet pin
+   - Edit: `https://www.canva.com/d/PVjkU_ATm6Q09oz`
+   - View: `https://www.canva.com/d/FcF81nTEXYQIppX`
 
-Current focus:
+2. Math worksheet pin
+   - Edit: `https://www.canva.com/d/lBw7RaAEKjPtwXf`
+   - View: `https://www.canva.com/d/B7ucy3W0XxxWloz`
 
-RestaurantAIbot / Resturants.ai owner-resource promotion.
+### Adult learner pin
 
-Website repo already has owner resource pages. Marketing-system now has matching campaign assets:
+Reading + Math Practice Without Shame for Everyone
 
-- platform-ready posts
-- short video scripts
-- Canva graphics queue
-- Pinterest pin prompts
-- YouTube Shorts descriptions
-- 14-day publishing schedule
-- email/newsletter draft
-- campaign CTA direction
-- manual success metrics
+- Edit: `https://www.canva.com/d/JB9aEd-LIBv-KUN`
+- View: `https://www.canva.com/d/t-t02lxlrbW87dq`
 
-Next useful actions:
+### Short videos
 
-1. Create the first 3 Canva graphics from `RESTURANTS-AI-CANVA-GRAPHICS-QUEUE.md`.
-2. Publish Day 1 to Day 3 from `RESTURANTS-AI-14-DAY-PUBLISHING-SCHEDULE.md`.
-3. Track published links in `CAMPAIGN-PUBLISHING-TRACKER.md`.
-4. Create a simple one-page Restaurant Growth Starter Checkup PDF later if requested.
+1. Video 01 — Homework fight? Try this.
+   - Edit: `https://www.canva.com/d/-AsIThP__kPG-JB`
+   - View: `https://www.canva.com/d/9HUPx5iVymvseJp`
 
-## Education Outreach Repair Added
+2. Video 02 — It is not too late.
+   - Edit: `https://www.canva.com/d/CHdtGIgLTPJko4X`
+   - View: `https://www.canva.com/d/_xMb2jIFfsXHPVT`
 
-Decision locked:
+3. Video 03 — Simple 30-minute learning routine.
+   - Edit: `https://www.canva.com/d/iQrsd0vGOFMaA-Z`
+   - View: `https://www.canva.com/d/-tYwvw_4UsybNZs`
 
-- ReadEasy30 and MathEasy30 outreach must use organized prospect standards.
-- Direct emails, contact forms, directories, media-only contacts, and blocked contacts must be separated.
-- Do not mass-send.
-- Do not scrape private emails.
-- Use official public contact routes only.
-- One follow-up only after 7 to 10 days.
-- Stop on opt-out or no-contact requests.
-
-New education outreach files:
-
-- `OUTREACH/README.md`
-- `OUTREACH/EDUCATION-PROSPECT-QUEUE.md`
-- `OUTREACH/CONTACT-FORM-SCRIPTS.md`
-- `OUTREACH/GMAIL-SEND-BLOCK-LOG.md`
-- `OUTREACH/DAILY-EXECUTION-RULES.md`
-- `OUTREACH/EMAIL-READY-CONTACT-STANDARDS.md`
-
-## Education Video Repair Added
+## Video and Avatar System Status
 
 Decision locked:
 
-- Do not render 10 YouTube Shorts MP4 files in one long run.
+- Do not render 10 MP4 files in one long run.
 - Use script/metadata/Canva-first workflow.
 - Create videos in smaller batches of 2 to 3 videos.
 - Keep videos vertical, short, readable, and calm.
 
-New education video files:
+New production files:
 
-- `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md`
-- `video-system/EDUCATION-YOUTUBE-UPLOAD-METADATA.md`
-- `video-system/EDUCATION-CANVA-DESIGN-BRIEF.md`
-- `video-system/VIDEO-GENERATION-REPAIR-NOTES.md`
+- `video-system/production-runs/2026-06-03-batch-01-videos-01-03.md`
+- `video-system/production-runs/2026-06-03-upload-captions-metadata.md`
+- `video-system/avatars/red-the-reader.svg`
+- `video-system/avatars/matthew-math.svg`
+- `video-system/avatars/calm-helper.svg`
 
-## Avatar and Video System Added
-
-Decision locked:
-
-- Marketing repo stores reusable avatar and video systems.
-- Each website repo stores final site-specific avatar personality, final dialogue, placement plan, and embed notes.
-- Large final videos should usually be hosted outside GitHub through an approved video platform.
-
-Existing reusable files:
+Existing reusable system files:
 
 - `avatar-system/README.md`
 - `avatar-system/AVATAR-WORKFLOW.md`
@@ -163,6 +145,63 @@ Existing reusable files:
 - `prompt-library/AVATAR-PROMPT.md`
 - `prompt-library/VIDEO-SCRIPT-PROMPT.md`
 
+## Education Outreach Status
+
+Decision locked:
+
+- ReadEasy30 and MathEasy30 outreach must use organized prospect standards.
+- Direct emails, contact forms, directories, media-only contacts, and blocked contacts must be separated.
+- Do not mass-send.
+- Do not scrape private emails.
+- Use official public contact routes only.
+- One follow-up only after 7 to 10 days.
+- Stop on opt-out or no-contact requests.
+
+Outreach files:
+
+- `OUTREACH/README.md`
+- `OUTREACH/EDUCATION-PROSPECT-QUEUE.md`
+- `OUTREACH/CONTACT-FORM-SCRIPTS.md`
+- `OUTREACH/GMAIL-SEND-BLOCK-LOG.md`
+- `OUTREACH/DAILY-EXECUTION-RULES.md`
+- `OUTREACH/EMAIL-READY-CONTACT-STANDARDS.md`
+
+## Current Safe Queue
+
+1. Open `EDUCATION-DAY-7-REVIEW-PACKET.md`.
+2. Mark every Day 1 to Day 6 item as Published, Designed, Drafted, Blocked, Paused, or Needs edit.
+3. Update `CAMPAIGN-PUBLISHING-TRACKER.md` with any actual live links or blockers.
+4. Export Canva Card 1 and post it first if no social posts are live yet.
+5. Export Video 01 and post it second if social accounts are ready.
+6. Use worksheet pins next if Pinterest is ready.
+7. Use Day 5 outreach script for no more than 5 safe contact-form submissions.
+8. Start Week 2 only after the tracker is updated.
+
+## RestaurantAIbot Campaign Status
+
+Current focus:
+
+RestaurantAIbot / Resturants.ai owner-resource promotion.
+
+Website repo already has owner resource pages. Marketing-system has matching campaign assets:
+
+- platform-ready posts
+- short video scripts
+- Canva graphics queue
+- Pinterest pin prompts
+- YouTube Shorts descriptions
+- 14-day publishing schedule
+- email/newsletter draft
+- campaign CTA direction
+- manual success metrics
+
+Next useful actions after education review:
+
+1. Create the first 3 Canva graphics from `RESTURANTS-AI-CANVA-GRAPHICS-QUEUE.md`.
+2. Publish Day 1 to Day 3 from `RESTURANTS-AI-14-DAY-PUBLISHING-SCHEDULE.md`.
+3. Track published links in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+4. Create a simple one-page Restaurant Growth Starter Checkup PDF later if requested.
+
 ## BransonBlastUSA Note
 
 Repo identified as `Wholelychit/bransonblastusa.com`.
@@ -171,21 +210,10 @@ Misspelled `branssonblastusa.com` repo was not found.
 
 BransonBlastUSA should use the shared avatar/video system from this repo, then store final site-specific avatar files in its own repo.
 
-## Current Safe Queue
-
-1. Review/export Canva Card 1 using Canva edit link in this file.
-2. Manually publish or block Day 1 Facebook, LinkedIn, and Pinterest items.
-3. Record completed or blocked items in `CAMPAIGN-PUBLISHING-TRACKER.md`.
-4. Follow Day 2 in `EDUCATION-WEEK-1-MANUAL-QUEUE.md`.
-5. Continue ReadEasy30 + MathEasy30 outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
-6. Produce the first 3 education short videos from `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md`.
-7. Continue RestaurantAIbot owner-resource campaign after the education Day 1 push is logged.
-8. Continue BransonBlastUSA static repo repair later: `script.js`, `robots.txt`, `sitemap.xml`, status files, and CSS completion if needed.
-9. Record blockers instead of stopping.
-
 ## Current Blockers
 
-- External social publishing requires access to the owner's actual social accounts or manual posting.
+- External social publishing requires access to Gerry’s actual social accounts or manual posting by Gerry.
+- Card 3 Canva generation was blocked twice; use existing worksheet pins instead.
 - One outreach email to the national Head Start contact route was sent on 2026-06-02.
 - Gmail blocked direct send/draft attempts to two public library contact routes; use official contact forms/manual one-to-one route instead of repeated Gmail attempts.
 - The initial 10-video ffmpeg batch timed out; use script/metadata/Canva-first workflow and produce MP4s in smaller batches.
