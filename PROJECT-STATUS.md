@@ -56,6 +56,9 @@ New education activation files:
 - `EDUCATION-MARKETING-ACTIVATION-BOARD.md`
 - `EDUCATION-SOCIAL-POSTS-BATCH-01.md`
 - `EDUCATION-CANVA-ACTIVATION-QUEUE.md`
+- `EDUCATION-FIRST-3-CANVA-CARDS.md`
+- `EDUCATION-WEEK-1-MANUAL-QUEUE.md`
+- `EDUCATION-NEXT-STEPS.md`
 
 Updated activation tracking:
 
@@ -63,11 +66,12 @@ Updated activation tracking:
 
 Current education activation queue:
 
-1. Create first 3 Canva graphics from `EDUCATION-CANVA-ACTIVATION-QUEUE.md`.
-2. Publish Day 1 Facebook, LinkedIn, and Pinterest copy from `EDUCATION-SOCIAL-POSTS-BATCH-01.md`.
-3. Produce education short videos 1 to 3 only using the Canva-first workflow.
-4. Continue safe contact-form outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
-5. Record published links or blockers in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+1. Build Canva card 1 from `EDUCATION-FIRST-3-CANVA-CARDS.md`.
+2. Follow Day 1 in `EDUCATION-WEEK-1-MANUAL-QUEUE.md`.
+3. Use copy from `EDUCATION-SOCIAL-POSTS-BATCH-01.md`.
+4. Record completed or blocked items in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+5. Continue safe contact-form outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
+6. Produce education short videos 1 to 3 only using the Canva-first workflow.
 
 ## RestaurantAIbot Campaign Status
 
@@ -162,10 +166,10 @@ BransonBlastUSA should use the shared avatar/video system from this repo, then s
 
 ## Current Safe Queue
 
-1. Run the education marketing activation board: `EDUCATION-MARKETING-ACTIVATION-BOARD.md`.
-2. Create first 3 education Canva graphics from `EDUCATION-CANVA-ACTIVATION-QUEUE.md`.
-3. Publish Day 1 education posts from `EDUCATION-SOCIAL-POSTS-BATCH-01.md`.
-4. Track published education assets in `CAMPAIGN-PUBLISHING-TRACKER.md`.
+1. Build Canva card 1 using `EDUCATION-FIRST-3-CANVA-CARDS.md`.
+2. Follow the seven-day order in `EDUCATION-WEEK-1-MANUAL-QUEUE.md`.
+3. Use social copy from `EDUCATION-SOCIAL-POSTS-BATCH-01.md`.
+4. Track completed or blocked items in `CAMPAIGN-PUBLISHING-TRACKER.md`.
 5. Continue ReadEasy30 + MathEasy30 outreach using `OUTREACH/DAILY-EXECUTION-RULES.md`.
 6. Produce the first 3 education short videos from `video-system/EDUCATION-YOUTUBE-SHORTS-BATCH-01.md`.
 7. Continue RestaurantAIbot owner-resource campaign after the education Day 1 push is logged.
