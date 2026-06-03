@@ -52,10 +52,16 @@ Decision locked:
 New command files added for upload/posting readiness:
 
 1. `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` — one-page execution order.
-2. `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` — ready social copy, captions, hashtags, and Pinterest text.
-3. `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` — account setup and upload readiness checklist.
-4. `EDUCATION-TRACKER-UPDATE-BLOCK.md` — tracker rows for published, designed, blocked, and outreach statuses.
-5. `CODEX-EDUCATION-MARKETING-EXECUTION-TASK.md` — Codex continuation task.
+2. `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` — one-batch asset export/upload list.
+3. `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` — ready social copy, captions, hashtags, and Pinterest text.
+4. `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` — account setup and upload readiness checklist.
+5. `EDUCATION-TRACKER-UPDATE-BLOCK.md` — tracker rows for published, designed, blocked, and outreach statuses.
+6. `CODEX-EDUCATION-MARKETING-EXECUTION-TASK.md` — Codex continuation task.
+
+Website repo markers:
+
+- `Wholelychit/readeasy30.com/MARKETING-ACTIVATION.md`
+- `Wholelychit/matheasy30.com/MARKETING-ACTIVATION.md`
 
 Optional tools noted but not made blockers:
 
@@ -186,13 +192,14 @@ Outreach files:
 ## Current Safe Queue
 
 1. Use `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` as the command center.
-2. Export Canva Card 1 first.
-3. Export Video 01 second.
-4. Export worksheet pins third.
-5. Use `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` for copy/captions.
-6. Use `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` to prepare channels.
-7. Use `EDUCATION-TRACKER-UPDATE-BLOCK.md` to update `CAMPAIGN-PUBLISHING-TRACKER.md` after posting/export/blockers.
-8. Use contact-form outreach only after at least one post/export is complete.
+2. Use `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` as the export/upload checklist.
+3. Export Canva Card 1 first.
+4. Export Video 01 second.
+5. Export worksheet pins third.
+6. Use `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` for copy/captions.
+7. Use `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` to prepare channels.
+8. Use `EDUCATION-TRACKER-UPDATE-BLOCK.md` to update `CAMPAIGN-PUBLISHING-TRACKER.md` after posting/export/blockers.
+9. Use contact-form outreach only after at least one post/export is complete.
 
 ## RestaurantAIbot Campaign Status
 
