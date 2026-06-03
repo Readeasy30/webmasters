@@ -34,6 +34,7 @@ Campaign: `30 Minutes. One Calm Step.`
 | 2026-06-03 | First video clipboard | Drafted | `EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md` | Use immediately after Video 01 export |
 | 2026-06-03 | Worksheet pins clipboard | Drafted | `EDUCATION-BATCH-01-WORKSHEET-PINS-CLIPBOARD.md` | Use after worksheet pin exports |
 | 2026-06-03 | Adult learner clipboard | Drafted | `EDUCATION-BATCH-01-ADULT-LEARNER-CLIPBOARD.md` | Use after adult learner pin export |
+| 2026-06-03 | Optional videos clipboard | Drafted | `EDUCATION-BATCH-01-OPTIONAL-VIDEOS-CLIPBOARD.md` | Use after core assets are handled |
 | 2026-06-03 | Live link QA | Drafted | `EDUCATION-BATCH-01-LIVE-LINK-QA.md` | Use approved links before posting |
 | 2026-06-03 | Account readiness board | Drafted | `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` | Mark first ready channel or blocker |
 | 2026-06-03 | Canva export run sheet | Drafted | `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md` | Export Card 1 first |
@@ -63,8 +64,8 @@ Campaign: `30 Minutes. One Calm Step.`
 | 2026-06-03 | Reading worksheet pin PNG export | Designed | `03-readeasy30-free-printable-reading-worksheets.png` from worksheet pin | Export third, then use worksheet pins clipboard |
 | 2026-06-03 | Math worksheet pin PNG export | Designed | `04-matheasy30-free-printable-math-worksheets.png` from worksheet pin | Export fourth, then use worksheet pins clipboard |
 | 2026-06-03 | Adult learner pin PNG export | Designed | `05-readeasy30-matheasy30-practice-without-shame.png` from adult learner pin | Export fifth, then use adult learner clipboard |
-| 2026-06-03 | Video 02 MP4 export | Designed | `06-readeasy30-matheasy30-video-02-it-is-not-too-late.mp4` from Video 02 | Export after Video 01 is handled |
-| 2026-06-03 | Video 03 MP4 export | Designed | `07-readeasy30-matheasy30-video-03-30-minute-routine.mp4` from Video 03 | Export after Video 01 is handled |
+| 2026-06-03 | Video 02 MP4 export | Designed | `06-readeasy30-matheasy30-video-02-it-is-not-too-late.mp4` from Video 02 | Export after core assets, then use optional videos clipboard |
+| 2026-06-03 | Video 03 MP4 export | Designed | `07-readeasy30-matheasy30-video-03-30-minute-routine.mp4` from Video 03 | Export after core assets, then use optional videos clipboard |
 
 ### Prepared campaign files
 
