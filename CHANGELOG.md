@@ -5,14 +5,16 @@
 ### Added
 
 - Added `EDUCATION-DAY-1-PUBLISHING-PACKET.md` so the first ReadEasy30 + MathEasy30 campaign day has Canva copy, Facebook copy, LinkedIn copy, Pinterest copy, optional short post copy, manual posting order, and tracker rows in one place.
+- Created editable Canva Card 1 for the ReadEasy30 + MathEasy30 campaign: `Facebook Post - 30 Minutes. One Calm Step.`
 
 ### Updated
 
 - Updated `CAMPAIGN-PUBLISHING-TRACKER.md` with the Day 1 publishing packet row and next action.
+- Updated `CAMPAIGN-PUBLISHING-TRACKER.md` with Canva Card 1 edit/view links.
 
 ### Current focus
 
-- Create Canva Card 1 from `EDUCATION-DAY-1-PUBLISHING-PACKET.md`.
+- Review/export Canva Card 1.
 - Manually publish Day 1 posts when social accounts are ready.
 - Paste live links into `CAMPAIGN-PUBLISHING-TRACKER.md` after posting.
 
