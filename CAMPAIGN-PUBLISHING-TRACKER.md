@@ -30,6 +30,8 @@ Campaign: `30 Minutes. One Calm Step.`
 | Date | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|
 | 2026-06-03 | Batch 01 Start Here index | Drafted | `EDUCATION-BATCH-01-START-HERE.md` | Open this first |
+| 2026-06-03 | First post clipboard | Drafted | `EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md` | Use immediately after Card 1 export |
+| 2026-06-03 | First video clipboard | Drafted | `EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md` | Use immediately after Video 01 export |
 | 2026-06-03 | Live link QA | Drafted | `EDUCATION-BATCH-01-LIVE-LINK-QA.md` | Use approved links before posting |
 | 2026-06-03 | Account readiness board | Drafted | `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` | Mark first ready channel or blocker |
 | 2026-06-03 | Canva export run sheet | Drafted | `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md` | Export Card 1 first |
@@ -54,8 +56,8 @@ Campaign: `30 Minutes. One Calm Step.`
 
 | Date | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|
-| 2026-06-03 | Card 1 PNG export | Designed | `01-readeasy30-matheasy30-card-1-calm-step.png` from Canva Card 1 | Export first, then post to Facebook or LinkedIn |
-| 2026-06-03 | Video 01 MP4 export | Designed | `02-readeasy30-matheasy30-video-01-homework-fight.mp4` from Video 01 | Export second, then post to first ready video platform |
+| 2026-06-03 | Card 1 PNG export | Designed | `01-readeasy30-matheasy30-card-1-calm-step.png` from Canva Card 1 | Export first, then use first post clipboard |
+| 2026-06-03 | Video 01 MP4 export | Designed | `02-readeasy30-matheasy30-video-01-homework-fight.mp4` from Video 01 | Export second, then use first video clipboard |
 | 2026-06-03 | Reading worksheet pin PNG export | Designed | `03-readeasy30-free-printable-reading-worksheets.png` from worksheet pin | Export third, then post to Pinterest if ready |
 | 2026-06-03 | Math worksheet pin PNG export | Designed | `04-matheasy30-free-printable-math-worksheets.png` from worksheet pin | Export fourth, then post to Pinterest if ready |
 | 2026-06-03 | Adult learner pin PNG export | Designed | `05-readeasy30-matheasy30-practice-without-shame.png` from adult learner pin | Export fifth, then post to LinkedIn or Facebook |
