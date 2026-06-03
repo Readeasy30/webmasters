@@ -43,6 +43,7 @@ Campaign: `30 Minutes. One Calm Step.`
 | 2026-06-03 | Video 01 Canva design | Designed | Edit: https://www.canva.com/d/-AsIThP__kPG-JB / View: https://www.canva.com/d/9HUPx5iVymvseJp | Export MP4 for Day 6 |
 | 2026-06-03 | Video 02 Canva design | Designed | Edit: https://www.canva.com/d/CHdtGIgLTPJko4X / View: https://www.canva.com/d/_xMb2jIFfsXHPVT | Export MP4 for Day 4 or Day 6 |
 | 2026-06-03 | Video 03 Canva design | Designed | Edit: https://www.canva.com/d/iQrsd0vGOFMaA-Z / View: https://www.canva.com/d/-tYwvw_4UsybNZs | Export MP4 for Day 6 |
+| 2026-06-03 | Canva direct export from connector | Blocked | Canva connector can create/find designs here, but no reliable direct export/download action is available | Use `CANVA-MANUAL-EXPORT-STEPS.md` |
 | 2026-06-03 | External social posting | Blocked | Requires owner account access/manual posting | Post manually, then paste live links here |
 | 2026-06-03 | Day 5 contact-form outreach | Planned | `EDUCATION-DAY-5-PUBLISHING-PACKET.md` | Submit 5 or fewer safe contact forms manually |
 
