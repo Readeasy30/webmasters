@@ -12,17 +12,20 @@ Goal: Execute the ReadEasy30 + MathEasy30 marketing plan. Do not redesign the we
 
 ## Main command
 
-Review the marketing execution files and continue only safe campaign execution work.
+Continue Batch 01 only. Do not create a new campaign until Batch 01 is exported, posted, blocked, or paused in the tracker.
 
 Start with:
 
 1. `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md`
-2. `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md`
-3. `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md`
-4. `EDUCATION-TRACKER-UPDATE-BLOCK.md`
-5. `CAMPAIGN-PUBLISHING-TRACKER.md`
-6. `PROJECT-STATUS.md`
-7. `CHANGELOG.md`
+2. `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md`
+3. `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md`
+4. `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md`
+5. `EDUCATION-TRACKER-UPDATE-BLOCK.md`
+6. `CAMPAIGN-PUBLISHING-TRACKER.md`
+7. `PROJECT-STATUS.md`
+8. `CHANGELOG.md`
+9. `Wholelychit/readeasy30.com/MARKETING-ACTIVATION.md`
+10. `Wholelychit/matheasy30.com/MARKETING-ACTIVATION.md`
 
 ## Execution rules
 
@@ -41,29 +44,36 @@ Start with:
 - Do not create public AI tools yet.
 - Do not convert ReadEasy30 or MathEasy30 to React, Vite, Next.js, TypeScript, or build tools.
 
-## Tonight safe queue
+## Batch 01 safe queue
 
-1. Verify all campaign control files exist.
-2. If any are missing, create them in `marketing-system`.
-3. Confirm `README.md` links to the new execution files.
-4. Confirm `PROJECT-STATUS.md` lists the tonight execution plan.
-5. Confirm `CHANGELOG.md` records the added files.
-6. Do not touch website code unless a small marketing link/status file update is safe and clearly useful.
-7. Stop only for a real blocker.
+1. Confirm Batch 01 files exist.
+2. Confirm `CAMPAIGN-PUBLISHING-TRACKER.md` has Batch 01 control rows and asset rows.
+3. Confirm ReadEasy30 and MathEasy30 website repos have `MARKETING-ACTIVATION.md` pointing back to `marketing-system`.
+4. Do not create more assets until Card 1 is exported or blocked.
+5. Do not start Week 2 until Batch 01 has at least one Published, Designed/exported, Blocked, or Paused tracker update.
+6. Stop only for a real blocker.
 
-## Upload/posting workflow
+## Batch 01 export order
 
 Use Canva first.
-
-Primary assets:
 
 1. `readeasy30-matheasy30-card-1-calm-step.png`
 2. `readeasy30-matheasy30-video-01-homework-fight.mp4`
 3. `readeasy30-free-printable-reading-worksheets.png`
 4. `matheasy30-free-printable-math-worksheets.png`
 5. `readeasy30-matheasy30-practice-without-shame.png`
+6. `readeasy30-matheasy30-video-02-it-is-not-too-late.mp4`
+7. `readeasy30-matheasy30-video-03-30-minute-routine.mp4`
 
-Optional tools:
+## First posting order
+
+1. Facebook or LinkedIn: Card 1 launch post.
+2. YouTube Shorts / Reels / TikTok: Video 01.
+3. Pinterest: reading worksheet pin.
+4. Pinterest: math worksheet pin.
+5. LinkedIn or Facebook: adult learner post.
+
+## Optional tools
 
 - Grok: only for later X/trend ideas.
 - `pinokiofactory/cogstudio`: only for later video production testing.
@@ -72,12 +82,16 @@ Optional tools:
 
 ## Done definition
 
-The task is complete when:
+The Batch 01 repo-side task is complete when:
 
 - Tonight action plan exists.
+- Batch 01 upload manifest exists.
 - Live posting kit exists.
 - Social account setup checklist exists.
 - Tracker update block exists.
+- Campaign tracker includes Batch 01 control rows and asset rows.
+- ReadEasy30 has `MARKETING-ACTIVATION.md`.
+- MathEasy30 has updated `MARKETING-ACTIVATION.md`.
 - README, PROJECT-STATUS, and CHANGELOG point to the new execution files.
 - No unsafe marketing tools were added.
 
