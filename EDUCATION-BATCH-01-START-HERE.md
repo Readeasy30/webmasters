@@ -36,16 +36,16 @@ Open:
 EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md
 ```
 
-Export Card 1 first:
+Export in this order:
 
 ```text
 01-readeasy30-matheasy30-card-1-calm-step.png
-```
-
-Then export Video 01:
-
-```text
 02-readeasy30-matheasy30-video-01-homework-fight.mp4
+03-readeasy30-free-printable-reading-worksheets.png
+04-matheasy30-free-printable-math-worksheets.png
+05-readeasy30-matheasy30-practice-without-shame.png
+06-readeasy30-matheasy30-video-02-it-is-not-too-late.mp4
+07-readeasy30-matheasy30-video-03-30-minute-routine.mp4
 ```
 
 ## Step 3 — QA before posting
@@ -64,15 +64,16 @@ Do not post if:
 - the copy promises guaranteed results
 - a platform asks for paid ads, tracking, or automation
 
-## Step 4 — Use the first-post clipboard
+## Step 4 — Use the quick clipboards
 
-For Card 1, open:
+Use these before digging into longer platform packets:
 
 ```text
 EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md
+EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md
+EDUCATION-BATCH-01-WORKSHEET-PINS-CLIPBOARD.md
+EDUCATION-BATCH-01-ADULT-LEARNER-CLIPBOARD.md
 ```
-
-Use this before digging into platform packets.
 
 ## Step 5 — Choose the platform packet if needed
 
@@ -94,39 +95,55 @@ EDUCATION-BATCH-01-POSTING-LOG.md
 CAMPAIGN-PUBLISHING-TRACKER.md
 ```
 
-## First post copy source
+## Quick clipboard order
 
-Use first:
+### 1. First post
 
 ```text
 EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md
 ```
 
-Detailed packet:
-
-```text
-EDUCATION-BATCH-01-FACEBOOK-LINKEDIN-PACKET.md
-```
-
-First post asset:
+Asset:
 
 ```text
 01-readeasy30-matheasy30-card-1-calm-step.png
 ```
 
-## First video source
-
-Use:
+### 2. First video
 
 ```text
-EDUCATION-BATCH-01-YOUTUBE-SHORTS-PACKET.md
-EDUCATION-BATCH-01-REELS-TIKTOK-PACKET.md
+EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md
 ```
 
-First video asset:
+Asset:
 
 ```text
 02-readeasy30-matheasy30-video-01-homework-fight.mp4
+```
+
+### 3. Worksheet pins
+
+```text
+EDUCATION-BATCH-01-WORKSHEET-PINS-CLIPBOARD.md
+```
+
+Assets:
+
+```text
+03-readeasy30-free-printable-reading-worksheets.png
+04-matheasy30-free-printable-math-worksheets.png
+```
+
+### 4. Adult learner post
+
+```text
+EDUCATION-BATCH-01-ADULT-LEARNER-CLIPBOARD.md
+```
+
+Asset:
+
+```text
+05-readeasy30-matheasy30-practice-without-shame.png
 ```
 
 ## Approved Batch 01 links
