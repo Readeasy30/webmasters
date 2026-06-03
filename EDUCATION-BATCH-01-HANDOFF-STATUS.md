@@ -26,6 +26,7 @@ Do not work on other projects until Batch 01 is posted, paused, or intentionally
 - Project status is locked to this campaign.
 - Email was sent to `wholelychit@gmail.com` with the next posting step.
 - Manual posting steps were created.
+- Today completion checklist was created in `EDUCATION-BATCH-01-TODAY-COMPLETION-CHECKLIST.md`.
 - ReadEasy30 homepage social preview metadata was updated.
 - MathEasy30 homepage social preview metadata was updated.
 - Website metadata QA was recorded in `EDUCATION-BATCH-01-WEBSITE-METADATA-QA.md`.
@@ -43,10 +44,12 @@ The first public post cannot be completed from the repo/chat because it requires
 
 This is not a content blocker.
 
-## Open this for click-by-click posting
+## Open these for posting today
 
 ```text
+EDUCATION-BATCH-01-TODAY-COMPLETION-CHECKLIST.md
 EDUCATION-BATCH-01-MANUAL-POSTING-STEPS.md
+EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md
 ```
 
 ## Next single action
