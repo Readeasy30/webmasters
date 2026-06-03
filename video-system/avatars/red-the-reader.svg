@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Red the Reader avatar</title>
+  <desc id="desc">Friendly red reading mascot holding a book for ReadEasy30 marketing videos.</desc>
+  <rect width="1024" height="1024" rx="180" fill="#FFF7EC"/>
+  <circle cx="512" cy="430" r="250" fill="#E85D5D"/>
+  <circle cx="410" cy="390" r="34" fill="#ffffff"/>
+  <circle cx="614" cy="390" r="34" fill="#ffffff"/>
+  <circle cx="410" cy="390" r="15" fill="#263238"/>
+  <circle cx="614" cy="390" r="15" fill="#263238"/>
+  <path d="M410 515 Q512 595 614 515" fill="none" stroke="#263238" stroke-width="28" stroke-linecap="round"/>
+  <path d="M285 690 Q400 600 512 690 Q625 600 739 690 L739 815 Q625 742 512 815 Q400 742 285 815 Z" fill="#FFFFFF" stroke="#2E7D6F" stroke-width="24" stroke-linejoin="round"/>
+  <path d="M512 690 L512 815" stroke="#2E7D6F" stroke-width="18" stroke-linecap="round"/>
+  <path d="M340 738 H465" stroke="#90A4AE" stroke-width="14" stroke-linecap="round"/>
+  <path d="M560 738 H684" stroke="#90A4AE" stroke-width="14" stroke-linecap="round"/>
+  <text x="512" y="930" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#263238">Red the Reader</text>
+</svg>
