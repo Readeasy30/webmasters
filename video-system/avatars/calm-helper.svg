@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Calm Helper avatar</title>
+  <desc id="desc">Warm helper avatar for education marketing videos.</desc>
+  <rect width="1024" height="1024" rx="180" fill="#F7F3FF"/>
+  <circle cx="512" cy="420" r="245" fill="#F1B27A"/>
+  <path d="M300 382 Q512 180 724 382 Q685 210 512 190 Q339 210 300 382" fill="#5D4037"/>
+  <circle cx="412" cy="405" r="31" fill="#ffffff"/>
+  <circle cx="612" cy="405" r="31" fill="#ffffff"/>
+  <circle cx="412" cy="405" r="14" fill="#263238"/>
+  <circle cx="612" cy="405" r="14" fill="#263238"/>
+  <path d="M415 520 Q512 585 609 520" fill="none" stroke="#263238" stroke-width="26" stroke-linecap="round"/>
+  <rect x="246" y="660" width="532" height="180" rx="42" fill="#FFFFFF" stroke="#7E57C2" stroke-width="24"/>
+  <text x="512" y="742" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#263238">One calm step</text>
+  <text x="512" y="802" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#2E7D6F">at a time</text>
+  <path d="M278 624 Q205 560 238 475" fill="none" stroke="#7E57C2" stroke-width="28" stroke-linecap="round"/>
+  <path d="M746 624 Q819 560 786 475" fill="none" stroke="#7E57C2" stroke-width="28" stroke-linecap="round"/>
+  <text x="512" y="930" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#263238">Calm Helper</text>
+</svg>
