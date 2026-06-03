@@ -29,6 +29,8 @@ Campaign: `30 Minutes. One Calm Step.`
 
 | Date | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|
+| 2026-06-03 | Batch 01 posting log | Planned | `EDUCATION-BATCH-01-POSTING-LOG.md` | Update after every export, post, blocker, or pause |
+| 2026-06-03 | Batch 01 QA checklist | Drafted | `EDUCATION-BATCH-01-QA-CHECKLIST.md` | Use before posting/exporting |
 | 2026-06-03 | Batch 01 upload manifest | Drafted | `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` | Use as current upload checklist |
 | 2026-06-03 | Tonight action plan | Drafted | `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` | Use as command center |
 | 2026-06-03 | Live posting kit | Drafted | `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` | Use for copy, captions, hashtags, and pin text |
