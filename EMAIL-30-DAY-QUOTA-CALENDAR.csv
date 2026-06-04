@@ -1,0 +1,31 @@
+day,date,provider_email_quota,manual_contact_form_quota,total_daily_actions,primary_focus,status,notes
+1,2026-06-04,0,40,40,Setup sender and prepare first contacts,Setup,Mailjet not connected yet; use manual/contact forms only
+2,2026-06-05,0,40,40,Verify sender and continue source lists,Planned,Do not send through provider until verified
+3,2026-06-06,0,40,40,Continue verification and manual forms,Planned,Track all blockers and no-contact routes
+4,2026-06-07,50,40,90,Provider warm-up if verified,Planned,Start low only if sender is verified
+5,2026-06-08,50,40,90,Provider warm-up,Planned,Watch bounces and replies
+6,2026-06-09,50,40,90,Provider warm-up,Planned,Pause if bounces spike
+7,2026-06-10,50,40,90,Provider warm-up review,Planned,Review opt-outs and not-fit replies
+8,2026-06-11,100,40,140,Increase provider quota if healthy,Planned,Only increase with clean logs
+9,2026-06-12,100,40,140,Daily outreach,Planned,Use 8-list rotation
+10,2026-06-13,100,40,140,Daily outreach,Planned,Use 8-list rotation
+11,2026-06-14,100,40,140,Daily outreach,Planned,Use 8-list rotation
+12,2026-06-15,100,40,140,Daily outreach,Planned,Use 8-list rotation
+13,2026-06-16,100,40,140,Daily outreach,Planned,Use 8-list rotation
+14,2026-06-17,100,40,140,Week 2 review,Planned,Check bounces opt-outs and replies
+15,2026-06-18,150,40,190,Increase if healthy,Planned,Use verified contacts only
+16,2026-06-19,150,40,190,Daily outreach,Planned,Use verified contacts only
+17,2026-06-20,150,40,190,Daily outreach,Planned,Use verified contacts only
+18,2026-06-21,150,40,190,Daily outreach,Planned,Use verified contacts only
+19,2026-06-22,150,40,190,Daily outreach,Planned,Use verified contacts only
+20,2026-06-23,150,40,190,Daily outreach,Planned,Use verified contacts only
+21,2026-06-24,150,40,190,Week 3 review,Planned,Check sender health before full pace
+22,2026-06-25,200,40,240,Full free-tier pace if healthy,Planned,Mailjet max assumed 200/day
+23,2026-06-26,200,40,240,Full daily outreach,Planned,Use all 8 lists
+24,2026-06-27,200,40,240,Full daily outreach,Planned,Use all 8 lists
+25,2026-06-28,200,40,240,Full daily outreach,Planned,Use all 8 lists
+26,2026-06-29,200,40,240,Full daily outreach,Planned,Use all 8 lists
+27,2026-06-30,200,40,240,Full daily outreach,Planned,Use all 8 lists
+28,2026-07-01,200,40,240,Week 4 review,Planned,Review replies and traffic
+29,2026-07-02,200,40,240,Full daily outreach,Planned,Use all 8 lists
+30,2026-07-03,200,40,240,30-day review and reset,Planned,Decide next 30-day cycle
