@@ -1,6 +1,6 @@
 # Education Batch 01 Account Readiness Board
 
-Last updated: 2026-06-03
+Last updated: 2026-06-04
 
 Campaign: **ReadEasy30 + MathEasy30 — 30 Minutes. One Calm Step.**
 
@@ -20,18 +20,24 @@ Use only:
 - Blocked
 - Skip for now
 
+## Day 01 launch push status
+
+The campaign content is ready. The missing launch requirement is one ready social account controlled by Gerry.
+
+Use the first channel that can be opened immediately. Do not wait for every account.
+
 ## Account readiness
 
 | Platform | Status | Public name to use | Main link | First asset | Notes |
 |---|---|---|---|---|---|
-| Facebook Page | Needs setup | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Card 1 | Use if page exists or can be created quickly |
-| LinkedIn profile/page | Needs setup | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Card 1 | Use Gerry profile first if company page is not ready |
-| Pinterest | Needs setup | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Reading worksheet pin | Best for worksheet traffic |
-| YouTube Shorts | Needs setup | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Video 01 | Best first video platform |
-| Instagram Reels | Needs setup | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Video 01 | Use if account exists |
-| Facebook Reels | Needs setup | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Video 01 | Use with Facebook if ready |
-| TikTok | Needs setup | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Video 01 | Optional, do not chase trends tonight |
-| X | Skip for now | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Short post later | Grok can help later, not needed now |
+| Facebook Page | Needs login | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Card 1 | Fastest if a page exists; post Card 1 first |
+| LinkedIn profile/page | Needs login | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Card 1 | Use Gerry profile first if company page is not ready |
+| Pinterest | Needs login | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Reading worksheet pin | Best backup; can publish Card 1 or worksheet pin |
+| YouTube Shorts | Needs login | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Video 01 | Best first video platform after Card 1 |
+| Instagram Reels | Needs login | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Video 01 | Use if account exists |
+| Facebook Reels | Needs login | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Video 01 | Use with Facebook if ready |
+| TikTok | Needs login | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Video 01 | Optional; do not chase trends today |
+| X | Skip for now | ReadEasy30 + MathEasy30 | https://readeasy30.com/ | Short post later | Not needed for Batch 01 launch |
 
 ## Profile bio
 
@@ -77,7 +83,7 @@ Record the exact blocker in:
 Example:
 
 ```md
-| 2026-06-03 | Facebook Page | Card 1 launch post | Blocked | Page not ready | Use LinkedIn or Pinterest next |
+| 2026-06-04 | Facebook Page | Card 1 launch post | Blocked | Page not ready or login unavailable | Use LinkedIn or Pinterest next |
 ```
 
 ## Done definition
