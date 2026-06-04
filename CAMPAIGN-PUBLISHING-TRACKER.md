@@ -1,6 +1,6 @@
 # Campaign Publishing Tracker
 
-Last updated: 2026-06-03
+Last updated: 2026-06-04
 
 Use this file to track what has been prepared, published, improved, or blocked across Wholelychit projects.
 
@@ -26,25 +26,33 @@ Track manually first. Do not add live analytics, tracking scripts, paid tools, b
 
 Campaign: `30 Minutes. One Calm Step.`
 
+### Day 01 launch push
+
+| Date | Asset | Status | Link / location | Next action |
+|---|---|---|---|---|
+| 2026-06-04 | Education Marketing Day 01 command file | Drafted | `EDUCATION-MARKETING-DAY-01-2026-06-04.md` | Use as today command center |
+| 2026-06-04 | 100 percent launch checklist | Drafted | `EDUCATION-MARKETING-100-PERCENT-LAUNCH-CHECKLIST.md` | Use to finish launch push |
+| 2026-06-04 | Account readiness board | Improved | `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` | One social account still needs login/manual access |
+| 2026-06-04 | Batch 01 posting log | Improved | `EDUCATION-BATCH-01-POSTING-LOG.md` | Post Card 1 when account access is ready |
+| 2026-06-04 | External social posting | Blocked | Requires owner login/manual posting | Post Card 1 manually, then paste live link back into ChatGPT |
+
 ### Batch 01 upload control
 
 | Date | Asset | Status | Link / location | Next action |
 |---|---|---|---|---|
-| 2026-06-03 | Batch 01 Start Here index | Drafted | `EDUCATION-BATCH-01-START-HERE.md` | Open this first |
+| 2026-06-03 | Batch 01 Start Here index | Drafted | `EDUCATION-BATCH-01-START-HERE.md` | Open after Day 01 file |
 | 2026-06-03 | Fallback upload package note | Drafted | `EDUCATION-BATCH-01-FALLBACK-UPLOAD-PACKAGE.md` | Use only if Canva export is slow or blocked |
-| 2026-06-03 | Fallback ZIP package | Exported | `ReadEasy30-MathEasy30-Batch-01-Upload-Package.zip` in ChatGPT sandbox | Download from current ChatGPT session if needed |
-| 2026-06-03 | First post clipboard | Drafted | `EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md` | Use immediately after Card 1 export |
+| 2026-06-03 | Fallback ZIP package | Exported | `ReadEasy30-MathEasy30-Batch-01-Upload-Package.zip` in ChatGPT sandbox | Download from prior ChatGPT session if needed |
+| 2026-06-03 | First post clipboard | Drafted | `EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md` | Use immediately for Card 1 post |
 | 2026-06-03 | First video clipboard | Drafted | `EDUCATION-BATCH-01-FIRST-VIDEO-CLIPBOARD.md` | Use immediately after Video 01 export |
 | 2026-06-03 | Worksheet pins clipboard | Drafted | `EDUCATION-BATCH-01-WORKSHEET-PINS-CLIPBOARD.md` | Use after worksheet pin exports |
 | 2026-06-03 | Adult learner clipboard | Drafted | `EDUCATION-BATCH-01-ADULT-LEARNER-CLIPBOARD.md` | Use after adult learner pin export |
 | 2026-06-03 | Optional videos clipboard | Drafted | `EDUCATION-BATCH-01-OPTIONAL-VIDEOS-CLIPBOARD.md` | Use after core assets are handled |
 | 2026-06-03 | Live link QA | Drafted | `EDUCATION-BATCH-01-LIVE-LINK-QA.md` | Use approved links before posting |
-| 2026-06-03 | Account readiness board | Drafted | `EDUCATION-BATCH-01-ACCOUNT-READINESS-BOARD.md` | Mark first ready channel or blocker |
 | 2026-06-03 | Canva export run sheet | Drafted | `EDUCATION-BATCH-01-CANVA-EXPORT-RUN-SHEET.md` | Export Card 1 first |
-| 2026-06-03 | Batch 01 posting log | Exported | `EDUCATION-BATCH-01-POSTING-LOG.md` | Fallback assets marked exported; post Card 1 next |
 | 2026-06-03 | Batch 01 QA checklist | Drafted | `EDUCATION-BATCH-01-QA-CHECKLIST.md` | Use before posting/exporting |
 | 2026-06-03 | Batch 01 upload manifest | Drafted | `EDUCATION-BATCH-01-UPLOAD-MANIFEST.md` | Use as current upload checklist |
-| 2026-06-03 | Tonight action plan | Drafted | `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` | Use as command center |
+| 2026-06-03 | Tonight action plan | Drafted | `TONIGHT-EDUCATION-MARKETING-ACTION-PLAN.md` | Superseded by Day 01 file |
 | 2026-06-03 | Live posting kit | Drafted | `EDUCATION-LIVE-POSTING-KIT-2026-06-03.md` | Use for copy, captions, hashtags, and pin text |
 | 2026-06-03 | Social account setup checklist | Drafted | `EDUCATION-SOCIAL-ACCOUNT-SETUP-CHECKLIST.md` | Mark accounts ready, blocked, or skipped |
 | 2026-06-03 | Tracker update block | Drafted | `EDUCATION-TRACKER-UPDATE-BLOCK.md` | Copy rows after each post/export/blocker |
@@ -91,7 +99,6 @@ Campaign: `30 Minutes. One Calm Step.`
 | 2026-06-03 | Video 02 Canva design | Designed | Edit: https://www.canva.com/d/CHdtGIgLTPJko4X / View: https://www.canva.com/d/_xMb2jIFfsXHPVT | Canva original still available if preferred |
 | 2026-06-03 | Video 03 Canva design | Designed | Edit: https://www.canva.com/d/iQrsd0vGOFMaA-Z / View: https://www.canva.com/d/-tYwvw_4UsybNZs | Canva original still available if preferred |
 | 2026-06-03 | Canva direct export from connector | Blocked | Canva connector can create/find designs here, but no reliable direct export/download action is available | Use fallback ZIP or manual Canva export |
-| 2026-06-03 | External social posting | Blocked | Requires owner account access/manual posting | Post manually, then paste live links here |
 | 2026-06-03 | Day 5 contact-form outreach | Planned | `EDUCATION-DAY-5-PUBLISHING-PACKET.md` | Use only after at least one post is live |
 
 ## Other Active Portfolio Campaigns
