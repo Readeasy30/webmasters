@@ -18,9 +18,39 @@ Main campaign link:
 https://readeasy30.com/free-reading-and-math-practice.html
 ```
 
-## Priority 1 — Outreach Daily 240
+## Priority 1 — 30-Day Email Quota Setup
 
 Open first:
+
+```text
+EMAIL-30-DAY-QUOTA-PLAN.md
+EMAIL-30-DAY-QUOTA-CALENDAR.csv
+EMAIL-SENDER-SETUP-CHECKLIST.md
+EMAIL-SUPPRESSION-LIST.csv
+```
+
+Current sender/reply email:
+
+```text
+free@readeasy30.com
+```
+
+Current setup decision:
+
+```text
+Gmail/manual contact forms now.
+Mailjet later after sender verification, contact verification, suppression tracking, and warm-up.
+```
+
+Today is not complete until one of these is true:
+
+1. `free@readeasy30.com` is confirmed able to send and receive.
+2. Mailjet setup is started and waiting on verification.
+3. Sender setup is blocked and the blocker is recorded.
+
+## Priority 2 — Outreach Daily 240
+
+Open next:
 
 ```text
 OUTREACH-DAILY-240-OPERATING-SYSTEM.md
@@ -43,7 +73,7 @@ OUTREACH-EMAIL-TOOL-DECISION.md
 
 Today is not complete until each of the 8 lists is marked Sent, Prepared, Blocked, or Held for Review.
 
-## Priority 2 — Social account setup
+## Priority 3 — Social account setup
 
 Use:
 
@@ -63,7 +93,7 @@ Backup first account:
 Pinterest Business
 ```
 
-## Priority 3 — Post Batch 01 Card 1 when one account is ready
+## Priority 4 — Post Batch 01 Card 1 when one account is ready
 
 Asset:
 
@@ -85,22 +115,6 @@ Then update:
 EDUCATION-BATCH-01-POSTING-LOG.md
 CAMPAIGN-PUBLISHING-TRACKER.md
 ```
-
-## Email tool decision
-
-Use now:
-
-```text
-GitHub files + CSV/Google Sheet + Gmail/manual contact forms
-```
-
-Use later after verified contacts and opt-out tracking:
-
-```text
-Mailjet
-```
-
-Do not connect Mailjet, Resend, Mailgun, SendPulse, SMTP, API keys, or automation today.
 
 ## Do not do
 
