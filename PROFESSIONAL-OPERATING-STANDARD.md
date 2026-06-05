@@ -43,8 +43,10 @@ These facts are locked until Gerry directly changes them:
 | Field | Locked value |
 |---|---|
 | Active campaign | ReadEasy30 + MathEasy30 education outreach |
-| Daily outreach target | 180 good-fit contacts per day |
-| Segment structure | 6 groups x 30 contacts |
+| Daily outreach target | 300 good-fit contacts per day after Brevo sending approval |
+| Current recovered list size | 180 rows |
+| Additional contacts needed | 120 rows |
+| Segment structure | 6 groups x 50 contacts |
 | Sender | `free@readeasy30.com` |
 | Reply-to | `free@readeasy30.com` |
 | Backup owner email | `wholelychit@gmail.com` |
@@ -52,7 +54,7 @@ These facts are locked until Gerry directly changes them:
 | Recovery workbook | `readeasy30_matheasy30_NO_STOP_OUTREACH_EXECUTION.xlsx` |
 | Recovered index | `RECOVERED-OUTREACH-CONTACTS-INDEX-2026-06-05.md` |
 | Email setup file | `EDUCATION-EMAIL-SENDER-SETUP-2026-06-05.md` |
-| Daily run sheet | `EDUCATION-180-DAILY-SEND-RUN-SHEET-2026-06-05.md` |
+| Previous daily run sheet | `EDUCATION-180-DAILY-SEND-RUN-SHEET-2026-06-05.md` |
 
 Never replace `free@readeasy30.com` with `wholelychit@gmail.com` in campaign setup unless Gerry explicitly says it is a temporary backup.
 
