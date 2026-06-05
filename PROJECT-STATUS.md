@@ -1,6 +1,6 @@
 # Project Status
 
-Last updated: 2026-06-04
+Last updated: 2026-06-05
 
 This file tracks the current safe marketing-system queue.
 
@@ -14,12 +14,18 @@ ReadEasy30 + MathEasy30 Batch 01
 
 Do not work on SlotsFreeUSA, PetNeeds.ai, RestaurantAIbot, BransonBlastUSA, or any other project while Batch 01 is active.
 
-## Day 01 Start
+## Day 02 Status
 
-Official marketing-system use starts today:
+Official marketing-system use started:
 
 ```text
 2026-06-04
+```
+
+Current status date:
+
+```text
+2026-06-05
 ```
 
 Unlocked repos for this campaign:
@@ -36,21 +42,43 @@ Wholelychit/matheasy30.com
 
 Codex is the primary workflow for routine repository edits.
 
-The ChatGPT GitHub connector is secondary and should be used only for small reads, checks, reviews, or emergency single-file edits when Codex is unavailable.
+The ChatGPT GitHub connector may be used for safe complete-file updates, reads, checks, reviews, or emergency edits when Codex is unavailable.
 
 ## Open First Now
 
 | Order | File | Why |
 |---|---|---|
-| 1 | `EDUCATION-MARKETING-TABLE-ACTION-BOARD-2026-06-04.md` | Table-style command board for the current marketing push |
-| 2 | `EDUCATION-MARKETING-DAY-01-2026-06-04.md` | Day 01 command file |
+| 1 | `EDUCATION-OUTREACH-COMMAND-CENTER-2026-06-05.md` | Daily outreach command center with contact segments, message templates, and tracker fields |
+| 2 | `EDUCATION-MARKETING-TABLE-ACTION-BOARD-2026-06-04.md` | Table-style command board for the current marketing push |
 | 3 | `EDUCATION-BATCH-01-POST-SEQUENCE-NOW.md` | Immediate posting sequence |
 | 4 | `EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md` | First public post copy |
 | 5 | `CAMPAIGN-PUBLISHING-TRACKER.md` | Record published links or blockers |
 
+## Homepage Refresh Completed
+
+| Site | Repo/file | Status | Commit |
+|---|---|---|---|
+| ReadEasy30 homepage | `Wholelychit/readeasy30.com/index.html` | Complete-file replacement done | `59d3fbf82cf464811bb14190c36b74954513e076` |
+| MathEasy30 homepage | `Wholelychit/matheasy30.com/index.html` | Complete-file replacement done | `e020e4268b3e31e7e18242d877e35e49429a45cc` |
+
+The updated homepage message is now locked around:
+
+- 100% free
+- 30 minutes a day
+- calm, no-shame practice
+- children, adults, ESL learners, parents, tutors, and helpers
+- ReadEasy30 + MathEasy30 cross-promotion
+- clear first actions: lesson app, placement/check, worksheets, reading + math plan
+
+## Live QA Note
+
+GitHub file verification passed.
+
+Live browser fetch was not confirmed from this environment, so manual browser/DevTools QA is still required before heavier public posting.
+
 ## Chrome DevTools QA System
 
-Shared QA workflow now lives in:
+Shared QA workflow lives in:
 
 ```text
 chrome-devtools-agent/README.md
@@ -73,6 +101,7 @@ Decision locked:
 
 - ReadEasy30 and MathEasy30 are the active education marketing campaign.
 - Campaign name: `30 Minutes. One Calm Step.`
+- Public offer line: `100% Free — 30 Minutes a Day`.
 - Main campaign link: `https://readeasy30.com/free-reading-and-math-practice.html`
 - Marketing activation means publish-ready manual assets, Canva designs, outreach rules, video scripts, avatar assets, landing pages, and campaign tracking.
 - It does not mean live ads, tracking scripts, payment setup, bulk email, scraping, or social-account automation.
@@ -84,7 +113,10 @@ Decision locked:
 | Day 01 command file | Done | `EDUCATION-MARKETING-DAY-01-2026-06-04.md` |
 | 100 percent launch checklist | Done | `EDUCATION-MARKETING-100-PERCENT-LAUNCH-CHECKLIST.md` |
 | Table action board | Done | `EDUCATION-MARKETING-TABLE-ACTION-BOARD-2026-06-04.md` |
+| Outreach command center | Done | `EDUCATION-OUTREACH-COMMAND-CENTER-2026-06-05.md` |
 | Post sequence | Done | `EDUCATION-BATCH-01-POST-SEQUENCE-NOW.md` |
+| ReadEasy30 homepage | Updated | Complete-file replacement; stronger public offer |
+| MathEasy30 homepage | Updated | Complete-file replacement; stronger public offer |
 | ReadEasy30 campaign landing page | Published | `https://readeasy30.com/free-reading-and-math-practice.html` |
 | MathEasy30 campaign landing page | Published | `https://matheasy30.com/free-reading-and-math-practice.html` |
 | ReadEasy30 DevTools QA checklist | Done | `Wholelychit/readeasy30.com/DEVTOOLS-QA.md` |
@@ -153,11 +185,13 @@ manifest.json
 
 | Order | Action | File/location | Done when |
 |---|---|---|---|
-| 1 | Run DevTools QA on ReadEasy30 buttons | `Wholelychit/readeasy30.com/DEVTOOLS-QA.md` | Findings table updated |
-| 2 | Run DevTools QA on MathEasy30 buttons | `Wholelychit/matheasy30.com/DEVTOOLS-QA.md` | Findings table updated |
-| 3 | Post Card 1 on first ready social channel | `EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md` | Live link recorded |
-| 4 | Update campaign tracker | `CAMPAIGN-PUBLISHING-TRACKER.md` | Published/blocker row added |
-| 5 | Continue Batch 01 posting order | Table action board | Every asset posted, blocked, or paused |
+| 1 | Run live browser check on ReadEasy30 homepage | `https://readeasy30.com/` | Hero, buttons, navigation, mobile layout confirmed |
+| 2 | Run live browser check on MathEasy30 homepage | `https://matheasy30.com/` | Hero, buttons, Bubbles section, mobile layout confirmed |
+| 3 | Run DevTools QA on ReadEasy30 app buttons | `Wholelychit/readeasy30.com/DEVTOOLS-QA.md` | Findings table updated |
+| 4 | Run DevTools QA on MathEasy30 app buttons | `Wholelychit/matheasy30.com/DEVTOOLS-QA.md` | Findings table updated |
+| 5 | Post Card 1 on first ready social channel | `EDUCATION-BATCH-01-FIRST-POST-CLIPBOARD.md` | Live link recorded |
+| 6 | Record any outreach in tracker | `CAMPAIGN-PUBLISHING-TRACKER.md` or outreach spreadsheet | Published/contact/blocker row added |
+| 7 | Continue Batch 01 posting order | Table action board | Every asset posted, blocked, or paused |
 
 ## Current Blockers
 
@@ -165,7 +199,7 @@ manifest.json
 - Canva direct export from the connector is not reliable here, so fallback upload assets were created.
 - Card 3 Canva generation was blocked twice; use existing worksheet pins or fallback worksheet assets instead.
 - MathEasy30 sitemap update was blocked by connector safety; the campaign page is still discoverable from the homepage.
-- Manual browser/DevTools QA is still recommended immediately before public posting.
+- Live browser/DevTools QA is still recommended immediately before public posting.
 
 ## Safety Lock
 
