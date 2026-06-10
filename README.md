@@ -17,10 +17,10 @@ Website code stays in each website repository. Marketing strategy and reusable s
 
 ## Project Repositories
 
-- ReadEasy30: `Wholelychit/readeasy30.com`
-- MathEasy30: `Wholelychit/matheasy30.com`
-- Marketing System: `Wholelychit/marketing-system`
-- BransonBlastUSA: `Wholelychit/bransonblastusa.com`
+- ReadEasy30: `Readeasy30/readeasy30.com`
+- MathEasy30: `Readeasy30/matheasy30.com`
+- Marketing System: `Readeasy30/webmasters`
+- BransonBlastUSA: `Readeasy30/bransonblastusa.com`
 - PetNeeds.ai: website code stays in its own repo.
 - Resturants.ai: website code stays in its own repo and deploys to `resturants.ai`.
 - SlotsFreeUSA: website code stays in `slotsfreeusa.com` and deploys to `slotsfreeusa.com`.
@@ -326,10 +326,10 @@ Resturants.ai / RestaurantAIbot    Local restaurant AI/growth platform    Local 
 SlotsFreeUSA    Free slot game/review content    Beginner clarity, risk honesty, entertainment
 BransonBlastUSA    Branson visitor and local marketing site    Trip ideas, local discovery, advertiser readiness
 Project Repositories
-ReadEasy30: Wholelychit/readeasy30.com
-MathEasy30: Wholelychit/matheasy30.com
-Marketing System: Wholelychit/marketing-system
-BransonBlastUSA: Wholelychit/bransonblastusa.com
+ReadEasy30: Readeasy30/readeasy30.com
+MathEasy30: Readeasy30/matheasy30.com
+Marketing System: Readeasy30/webmasters
+BransonBlastUSA: Readeasy30/bransonblastusa.com
 PetNeeds.ai: website code stays in its own repo.
 Resturants.ai: website code stays in its own repo and deploys to resturants.ai.
 SlotsFreeUSA: website code stays in slotsfreeusa.com and deploys to slotsfreeusa.com.
@@ -359,7 +359,7 @@ MathEasy30
 Reusable Marketing Formula
 The shared marketing formula isShow more4:44 PMClaude responded: Got it.Clarifying file placement within marketing-system repositoryClarifying file placement within marketing-system repositoryGot it. Here's the exact path:
 Go to:
-https://github.com/Wholelychit/marketing-system
+https://github.com/Readeasy30/webmasters
 Click "Add file" button (top right) → "Create new file"
 In the filename box, type:
 OUTREACH/README.md
