@@ -1,10 +1,10 @@
-# Resturants.ai Homepage Copy Draft
+# Restaurants.ai Homepage Copy Draft
 
 Last updated: 2026-05-29
 
 ## Purpose
 
-Use this copy to make the Resturants.ai homepage clear for busy restaurant owners.
+Use this copy to make the Restaurants.ai homepage clear for busy restaurant owners.
 
 ## Page Goal
 
@@ -18,7 +18,7 @@ Simple AI marketing help for local restaurants.
 
 ### Subheadline
 
-Resturants.ai helps restaurant owners improve their website, menu copy, local visibility, social posts, and review responses without adding more confusion.
+Restaurants.ai helps restaurant owners improve their website, menu copy, local visibility, social posts, and review responses without adding more confusion.
 
 ### Primary CTA
 
@@ -46,7 +46,7 @@ Customers check a restaurant online before they visit, order, or call.
 
 If the website is confusing, the menu is hard to read, the Google listing is weak, or reviews go unanswered, customers may move on.
 
-Resturants.ai helps organize the simple marketing pieces that matter most.
+Restaurants.ai helps organize the simple marketing pieces that matter most.
 
 ## What We Help Improve
 
@@ -84,7 +84,7 @@ It is built for owners who want clear advice, not a 40-page report nobody reads.
 
 ## Who This Helps
 
-Resturants.ai is built for:
+Restaurants.ai is built for:
 
 - independent restaurants
 - cafes
@@ -114,7 +114,7 @@ The goal is to sound clear, local, and trustworthy.
 
 ## What We Do Not Do Yet
 
-Resturants.ai is in safe planning/build mode.
+Restaurants.ai is in safe planning/build mode.
 
 We are not adding:
 
@@ -157,7 +157,7 @@ People want to know:
 - Do people like you?
 - Can I order or call easily?
 
-Resturants.ai helps make those answers easier to find.
+Restaurants.ai helps make those answers easier to find.
 
 ## Final CTA Section
 
@@ -175,7 +175,7 @@ Get the Restaurant Growth Checklist
 
 ## Footer Note
 
-Resturants.ai provides marketing planning and content support. Results vary by restaurant, location, competition, service quality, and execution. No rankings, traffic, sales, or revenue are guaranteed.
+Restaurants.ai provides marketing planning and content support. Results vary by restaurant, location, competition, service quality, and execution. No rankings, traffic, sales, or revenue are guaranteed.
 
 ## Safety Review
 

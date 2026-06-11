@@ -53,4 +53,4 @@ Use these first for the current ReadEasy30 + MathEasy30 launch push:
 - Summer practice routine.
 - SlotsFreeUSA trust-first affiliate prep.
 - PetNeeds.ai starter category push.
-- RestaurantAIbot / Resturants.ai local owner starter offer.
+- RestaurantAIbot / Restaurants.ai local owner starter offer.

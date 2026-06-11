@@ -2,7 +2,7 @@
 
 Last updated: 2026-05-28
 
-This is the reusable marketing formula for Wholelychit websites. Use it for SlotsFreeUSA first, then adapt it for ReadEasy30, MathEasy30, PetNeeds.ai, Resturants.ai, and future sites.
+This is the reusable marketing formula for Wholelychit websites. Use it for SlotsFreeUSA first, then adapt it for ReadEasy30, MathEasy30, PetNeeds.ai, Restaurants.ai, and future sites.
 
 ## Core Formula
 
@@ -43,7 +43,7 @@ Examples:
 - SlotsFreeUSA: “I want to try free slots without risking money.”
 - ReadEasy30: “My child needs calm reading practice.”
 - PetNeeds.ai: “I need a simple checklist for a new pet.”
-- Resturants.ai: “My restaurant needs more local customers.”
+- Restaurants.ai: “My restaurant needs more local customers.”
 
 ### 3. Create one helpful page
 

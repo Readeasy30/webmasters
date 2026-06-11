@@ -1,4 +1,4 @@
-# Resturants.ai Monetization Plan
+# Restaurants.ai Monetization Plan
 
 ## Phase 1
 

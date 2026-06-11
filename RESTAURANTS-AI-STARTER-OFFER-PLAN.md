@@ -1,10 +1,10 @@
-# Resturants.ai / RestaurantAIbot Starter Offer Plan
+# Restaurants.ai / RestaurantAIbot Starter Offer Plan
 
 Last updated: 2026-05-29
 
 ## Naming Rule
 
-Use `Resturants.ai` for the live website/domain spelling.
+Use `Restaurants.ai` for the live website/domain spelling.
 
 Use `RestaurantAIbot` as the product/service name only when describing the AI-assisted restaurant growth helper.
 
@@ -12,7 +12,7 @@ Do not use older spellings:
 
 - reasturant.ai
 - restaurant.ai
-- resturant.ai
+- restaurant.ai
 
 ## Purpose
 
@@ -114,7 +114,7 @@ Headline:
 
 Subheadline:
 
-> Resturants.ai helps restaurant owners improve their website, menu copy, local visibility, social posts, and review responses without adding more confusion.
+> Restaurants.ai helps restaurant owners improve their website, menu copy, local visibility, social posts, and review responses without adding more confusion.
 
 CTA:
 
@@ -271,7 +271,7 @@ Avoid:
 
 ## Next Safe Actions
 
-1. Use `RESTURANTS-AI-HOMEPAGE-COPY-DRAFT.md` for the first site message.
-2. Use `RESTURANTS-AI-SAMPLE-AUDIT-TEMPLATE.md` for the starter checkup.
-3. Use `RESTURANTS-AI-SOCIAL-CANVA-BATCH.md` for promotion assets.
+1. Use `RESTAURANTS-AI-HOMEPAGE-COPY-DRAFT.md` for the first site message.
+2. Use `RESTAURANTS-AI-SAMPLE-AUDIT-TEMPLATE.md` for the starter checkup.
+3. Use `RESTAURANTS-AI-SOCIAL-CANVA-BATCH.md` for promotion assets.
 4. Do not add payment, ordering, tracking, live chatbot, or automated outreach without approval.

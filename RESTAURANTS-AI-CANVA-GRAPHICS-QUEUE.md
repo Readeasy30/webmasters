@@ -54,7 +54,7 @@ Create a square social graphic for RestaurantAIbot. Show a smartphone with a res
 
 ### Caption Pairing
 
-Use with Post 1 from `RESTURANTS-AI-PLATFORM-POSTS-BATCH-01.md`.
+Use with Post 1 from `RESTAURANTS-AI-PLATFORM-POSTS-BATCH-01.md`.
 
 ## Graphic 2: Menu Copy Before / After
 
@@ -72,7 +72,7 @@ Create a square before-and-after restaurant menu graphic. Left side label: “Be
 
 ### Caption Pairing
 
-Use with Post 2 from `RESTURANTS-AI-PLATFORM-POSTS-BATCH-01.md`.
+Use with Post 2 from `RESTAURANTS-AI-PLATFORM-POSTS-BATCH-01.md`.
 
 ## Graphic 3: Review Reply Reminder
 
@@ -90,7 +90,7 @@ Create a square social graphic for RestaurantAIbot. Show review stars and a frie
 
 ### Caption Pairing
 
-Use with Post 3 from `RESTURANTS-AI-PLATFORM-POSTS-BATCH-01.md`.
+Use with Post 3 from `RESTAURANTS-AI-PLATFORM-POSTS-BATCH-01.md`.
 
 ## Graphic 4: Slow Night Offer
 
@@ -108,7 +108,7 @@ Create a square social graphic. Show a quiet restaurant table and a small promo 
 
 ### Caption Pairing
 
-Use with Post 4 from `RESTURANTS-AI-PLATFORM-POSTS-BATCH-01.md`.
+Use with Post 4 from `RESTAURANTS-AI-PLATFORM-POSTS-BATCH-01.md`.
 
 ## Graphic 5: Local Restaurant SEO Basics
 
@@ -126,7 +126,7 @@ Create a square checklist graphic for RestaurantAIbot. Headline: “Local Restau
 
 ### Caption Pairing
 
-Use with local SEO post from `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md`.
+Use with local SEO post from `RESTAURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md`.
 
 ## Pinterest Pin 1: Restaurant Homepage Checklist
 

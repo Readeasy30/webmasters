@@ -82,7 +82,7 @@
 ### Added
 
 - Added `PORTFOLIO-WEEKLY-EXECUTION-BOARD.md` to turn the multi-site marketing plan into weekly action batches.
-- Added `RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md` with RestaurantAIbot owner-resource captions, short video scripts, Canva prompts, email/newsletter copy, CTA direction, and success metrics.
+- Added `RESTAURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md` with RestaurantAIbot owner-resource captions, short video scripts, Canva prompts, email/newsletter copy, CTA direction, and success metrics.
 - Added `CAMPAIGN-PUBLISHING-TRACKER.md` to track prepared, published, improved, blocked, and paused marketing assets across Wholelychit projects.
 - Added `EDUCATION-MARKETING-ACTIVATION-BOARD.md` for the active ReadEasy30 + MathEasy30 marketing push.
 - Added `EDUCATION-SOCIAL-POSTS-BATCH-01.md` with platform-ready education campaign copy.

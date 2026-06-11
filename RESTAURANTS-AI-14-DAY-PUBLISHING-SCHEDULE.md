@@ -8,15 +8,15 @@ Use this schedule to publish the RestaurantAIbot owner-resource campaign without
 
 Primary campaign file:
 
-`RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md`
+`RESTAURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md`
 
 Platform post file:
 
-`RESTURANTS-AI-PLATFORM-POSTS-BATCH-01.md`
+`RESTAURANTS-AI-PLATFORM-POSTS-BATCH-01.md`
 
 Canva queue:
 
-`RESTURANTS-AI-CANVA-GRAPHICS-QUEUE.md`
+`RESTAURANTS-AI-CANVA-GRAPHICS-QUEUE.md`
 
 ## Publishing Rules
 
@@ -73,19 +73,19 @@ Start here:
 
 Use:
 
-`RESTURANTS-AI-CANVA-GRAPHICS-QUEUE.md` → Graphic 1: Homepage Checklist
+`RESTAURANTS-AI-CANVA-GRAPHICS-QUEUE.md` → Graphic 1: Homepage Checklist
 
 ## Day 3 Graphic
 
 Use:
 
-`RESTURANTS-AI-CANVA-GRAPHICS-QUEUE.md` → Graphic 2: Menu Copy Before / After
+`RESTAURANTS-AI-CANVA-GRAPHICS-QUEUE.md` → Graphic 2: Menu Copy Before / After
 
 ## Day 4 Pinterest Pin
 
 Use:
 
-`RESTURANTS-AI-CANVA-GRAPHICS-QUEUE.md` → Pinterest Pin 1: Restaurant Homepage Checklist
+`RESTAURANTS-AI-CANVA-GRAPHICS-QUEUE.md` → Pinterest Pin 1: Restaurant Homepage Checklist
 
 ## Day 5 Ready-To-Post
 
@@ -108,7 +108,7 @@ Review response templates:
 
 Use:
 
-`RESTURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md` → Video 1: 3 Things Your Restaurant Homepage Must Answer
+`RESTAURANTS-AI-OWNER-RESOURCE-CAMPAIGN.md` → Video 1: 3 Things Your Restaurant Homepage Must Answer
 
 ## Day 14 Recap Post
 

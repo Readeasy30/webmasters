@@ -23,7 +23,7 @@ Examples:
 
 - ReadEasy30: A learner needs calm reading practice.
 - PetNeeds.ai: A pet owner needs a clear beginner checklist.
-- Resturants.ai: A restaurant owner needs more local customer attention.
+- Restaurants.ai: A restaurant owner needs more local customer attention.
 - SlotsFreeUSA: A beginner wants simple free-play information.
 
 ### Step 2: Pick One Main Content Type

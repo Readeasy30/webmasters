@@ -70,7 +70,7 @@ Start with trip ideas, or check local guide sections if you already know what ki
 
 Own a Branson business? This site is being built to help visitors find local places to eat, shop, stay, and play.
 
-## RestaurantAIbot / Resturants.ai — Restaurant growth assistant
+## RestaurantAIbot / Restaurants.ai — Restaurant growth assistant
 
 ### Homepage intro
 

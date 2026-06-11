@@ -167,7 +167,7 @@ Trust notes:
 - Do not replace veterinarian advice.
 - Use safe language for health topics.
 
-### Resturants.ai
+### Restaurants.ai
 
 Priority topics:
 
