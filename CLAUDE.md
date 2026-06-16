@@ -1,38 +1,69 @@
-# Webmasters — Project Context for Claude
+# CLAUDE.md — Lean Builder Mode
 
-## What This Repo Is
-Central operations and coordination hub for all Readeasy30 web properties. NOT a deployable website — it is a flat collection of planning docs, templates, campaign trackers, and automation scripts used to manage multiple sites.
+## Source of Truth
+The live GitHub repository is the source of truth.
 
-## Structure
-- `README.md` — full project overview (17KB)
-- `make_shorts.py` — Python script for generating short-form content
-- `outreach-tracker.xlsx` — advertiser/outreach tracking spreadsheet
-- `CAMPAIGNS/` — campaign briefs and assets
-- `OUTREACH/` — outreach templates and contact lists
-- `RestaurantAI/` — RestaurantAIBot-specific planning docs
-- `STATUS-UPDATES/` — periodic status reports
-- `automation/` — automation scripts and configs
-- `avatar-system/` — avatar/brand persona assets
-- `brand-rules/` — brand guidelines and style rules
-- `campaigns/` — active campaign files
-- `chrome-devtools-agent/` — Chrome DevTools automation
-- `education-growth-system/` — growth playbooks for education sites
-- `legal/` — legal templates (privacy policy, terms, disclosures)
-- `prompt-library/` — reusable AI prompt templates
-- `templates/` — HTML/content templates
-- `video-system/` — video production workflow docs
+Before saying something is done, missing, broken, pending, or ready:
+1. Inspect the actual repo files.
+2. Compare with STATUS.md if it exists.
+3. Trust repo files over memory, summaries, or old chat notes.
 
-## Sites This Repo Manages
-| Site | Repo |
-|------|------|
-| readeasy30.com | readeasy30/readeasy30.com |
-| matheasy30.com | readeasy30/matheasy30.com |
-| petneeds.ai | readeasy30/my-petneeds |
-| bransonblastusa.com | readeasy30/bransonblastusa.com |
-| restaurantaibot.com | readeasy30/restaurantaibot.com |
-| slotsfreeusa.com | readeasy30/slotsfreeusa.com |
+## Gerry Workflow
+Gerry wants complete, direct, copy/paste-ready work.
 
-## Important
-- This repo is NOT deployed anywhere — it is ops/planning only
-- Do not add `index.html`, `_headers`, or deployment files here
-- Python scripts require Python 3.x: `python3 make_shorts.py`
+Use:
+- Short answers.
+- Numbered steps.
+- One task batch at a time.
+- Full-file replacements when editing files.
+- Plain language.
+- No long explanations unless asked.
+
+Avoid:
+- Repeating questions.
+- Re-litigating settled decisions.
+- Reading the whole repo unless necessary.
+- Large token-heavy summaries.
+- Redesigning unless asked.
+
+## Website Rules
+Default stack:
+- Plain HTML
+- Plain CSS
+- Plain JavaScript
+- GitHub
+- Cloudflare Pages
+
+Do not switch to React, Vite, Node, build tools, routing frameworks, or complex stacks unless Gerry clearly asks.
+
+## Required Startup Routine
+At the start of each session:
+1. Read this CLAUDE.md.
+2. Read STATUS.md if present.
+3. Inspect the actual repo file tree.
+4. Report only important drift.
+5. Then work.
+
+## Token Saving Rules
+1. Read only the files needed for the task.
+2. Summarize findings in 5 bullets or fewer.
+3. Prefer patches or full-file replacements over long discussion.
+4. Use /compact after large tasks.
+5. Use /clear when changing to a new project.
+6. Do not paste huge file contents unless Gerry needs to copy them.
+
+## GitHub Rules
+Claude may read, create, edit, rename, and delete files in the GitHub repository when the task requires it.
+
+Before destructive changes:
+- Confirm the file path.
+- Explain the reason briefly.
+- Prefer safer replacement over deletion when possible.
+
+## End of Task
+Finish with:
+1. Files changed.
+2. Commit message.
+3. What Gerry should check in Cloudflare or the live site.
+
+When done, report which repos got the file and confirm each commit.
