@@ -1,0 +1,13 @@
+# TopShelfWebsites.com Contact Form Setup Guidelines
+# Controller: Avatar Sales Director (#2)
+
+## 🌐 1. Front-End Integration Point
+The HTML contact form on the live site must point directly to your deployed Cloudflare Worker endpoint link.
+
+## 📋 2. Required Input Fields
+* `name`: Full text name or business name of the client inquirer.
+* `email`: Active contact address (For direct follow-ups from Avatar #2).
+* `message`: Project goals, budget limits, or target timeline parameters.
+
+## 🛑 3. Verification Protocol
+* All incoming data triggers are evaluated by the backend worker logic to filter out empty strings and duplicate submissions.
