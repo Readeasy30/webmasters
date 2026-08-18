@@ -18,7 +18,11 @@ markdown## 🎯 3. Current 4-Site Active Build Queue
 We are focusing our direct-response systems entirely on these 4 active core properties:
 1. **ReadEasy30:** Literacy platform (Library outreach and parent confidence tools).
 2. **MathEasy30:** Math practice path (Currently under active revision).
-3. **SlotsFreeUSA:** Adult entertainment path (Locked via strict 21+ compliance rules)
+3. **SlotsFreeUSA:** Adult entertainment path (Locked via strict 21+ compliance rules).
+4. **TopShelfWebsites.com:** Live-tweaking B2B platform (Managed by our newly deployed #2 Avatar Sales Director).
 
+## 🎭 4. Active Avatar Roster
+* **Avatar #1 (Marketing Director):** Handles background SEO frameworks, Mailjet automation setups, and core copywriting templates.
+* **Avatar #2 (Sales Director):** Newly active at 10 PM. Focuses on live-tweaking, c
 *Note: PetNeeds.ai and BransonBlastUSA are currently stable and idling. Restaurantaibot.com is completely purged.*
 
