@@ -1,0 +1,85 @@
+📬 1. Setting Up Escalation Notifications (Email Alert System)To make sure you never lose a hot lead when the avatar says, 
+"I will collect that question for human review," we can connect the FastAPI backend to Gmail using your secure workspace setup.
+When the avatar triggers an escalation phrase, the system will instantly send a clean alert straight to your inbox with the
+client's information.Step A: Add the Notification Route to your BackendOpen your main repository file (e.g., main.py on your
+GPU server) and insert this endpoint code. It captures the user's question and sends it natively:pythonfrom fastapi import HTTPException
+from pydantic import BaseModel
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+
+# Define what data the endpoint expects from the web frontend
+class EscalationPayload(BaseModel):
+    client_email: str
+    client_question: str
+    business_type: str = "Not specified"
+
+@app.post("/api/escalate")
+async def send_escalation_alert(payload: EscalationPayload):
+    # Your internal tracking setup
+    sender_email = "your-verified-workspace-email@gmail.com"
+    receiver_email = "sales-alerts@yourdomain.com" 
+    # Use a secure App Password generated from your Google Account settings
+    app_password = "your-16-character-app-password" 
+
+    # Create the email layout structures
+    msg = MIMEMultipart()
+    msg['From'] = sender_email
+    msg['To'] = receiver_email
+    msg['Subject'] = f"🚨 TOP SHELF LEAD: Human Review Needed ({payload.business_type})"
+
+    body = f"""
+    The sales avatar has escalated a complex client question.
+    
+    💼 Business Type: {payload.business_type}
+    📧 Contact Email: {payload.client_email}
+    ❓ Question Asked: {payload.client_question}
+    
+    Action Required: Log into your dashboard and follow up manually within 24 hours.
+    """
+    msg.attach(MIMEText(body, 'plain'))
+
+    try:
+        # Connect securely using standard network encryption protocols
+        server = smtplib.SMTP('://gmail.com', 587)
+        server.starttls()
+        server.login(sender_email, app_password)
+        server.sendmail(sender_email, receiver_email, msg.as_string())
+        server.quit()
+        return {"status": "success", "message": "Alert sent to admin successfully"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+Use code with caution.Step B: Connect Your Frontend FormInside your GitHub repository's index.html file, 
+add a small function to send the data over when a client enters their contact information after a complex query:
+javascriptasync function submitEscalation(email, question, bizType) {
+    await fetch(`${BACKEND_URL}/api/escalate`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+            client_email: email,
+            client_question: question,
+            business_type: bizType
+        })
+    });
+    alert("Thanks! A human expert will review this and email you shortly.");
+}
+Use code with caution.🧱 2. Fixing Common GPU Instance Firewall ErrorsIf your frontend cannot talk to your backend, 
+or if Ollama fails to run your new topshelf-closer model model, it is almost always due to unopened network ports or 
+missing environment links.Run through these quick verification steps to unblock your server network:Error Check A: Fixing "
+Connection Refused" on Port 8000By default, some cloud providers block external connections to protect your server.Log into your 
+cloud computing dashboard console (RunPod, Vast, or AWS).Find your running instance settings panel and look for Exposed Ports or 
+Firewall Rules.Map internal port 8000 to a public-facing external port so the internet can reach your FastAPI code.Error Check B
+: Binding Ollama to Your Entire NetworkIf your main Python backend script throws an error saying it cannot connect to Ollama
+, Ollama is likely listening only to inside requests (localhost). Let's force it to listen globally:Open your system startup script
+
+config file in the terminal:bashsudo systemctl edit ollama.service
+Use code with caution.Paste these environment lines right into the blank space configuration block to clear the traffic blocks:ini[Service]
+Environment="OLLAMA_HOST=0.0.0.0"
+Use code with caution.Save the changes and force Ollama to reload its inner settings:bashsudo systemctl daemon-reload
+sudo systemctl restart ollama
+Use code with caution.🚀 Production Deployment Verification ScreenNow that both elements are built, your system is fully locked and loaded.
+Your static pre-rendered introduction files are safely hosted on Cloudflare Pages, your interactive real-time sales pipeline is actively scanning 
+for objections on your GPU server, and your automated escalation webhook guarantees no valuable business lead ever slips through the cracks.Let me
+know if you would like me to:Generate a sample Onboarding Lead Capture Form script that your avatar can trigger when a client says they are ready to
+sign up for the START, GROW, or PRO lease plans.Help you run a mock conversation script in the terminal to verify that the model correctly refuses to
+create fake discounts.
