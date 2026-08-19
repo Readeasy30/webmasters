@@ -1,0 +1,187 @@
+📋 1. Onboarding Lead Capture Form (Frontend UI Component)Add this code snippet directly inside your main dashboard layout (the index.html file in your GitHub repo).When a client tells your avatar they are ready to sign up for a START, GROW, or PRO plan, this modal pops up on their screen. This streamlines the onboarding process without requiring the avatar to collect sensitive forms verbally.html<!-- Onboarding Pop-up Form Container -->
+<div id="onboarding-modal" style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 320px; background: white; padding: 25px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); z-index: 2000; font-family: sans-serif;">📋 1. Onboarding Lead Capture Form (Frontend UI Component)Add this code snippet directly inside your main dashboard layout (the index.html file in your GitHub repo).When a client tells your avatar they are ready to sign up for a START, GROW, or PRO plan, this modal pops up on their screen. This streamlines the onboarding process without requiring the avatar to collect sensitive forms verbally.html<!-- Onboarding Pop-up Form Container -->📋 1. Onboarding Lead Capture Form (Frontend UI Component)Add this code snippet directly inside your main dashboard layout (the index.html file in your GitHub repo).When a client tells your avatar they are ready to sign up for a START, GROW, or PRO plan, this modal pops up on their screen. This streamlines the onboarding process without requiring the avatar to collect sensitive forms verbally.html<!-- Onboarding Pop-up Form Container -->
+<div id="onboarding-modal" style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 320px; background: white; padding: 25px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); z-index: 2000; font-family: sans-serif;">
+    <h3 style="margin-top: 0; color: #111;">🚀 Secure Your Website Lease</h3>
+    <p style="font-size: 14px; color: #555;">Fill out your business details below to initiate your Top Shelf layout setup.</p>
+    
+    <label style="font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">BUSINESS NAME</label>
+    <input type="text" id="biz-name" placeholder="e.g., Quick Locksmith" style="width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px;">
+
+    <label style="font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">EMAIL ADDRESS</label>
+    <input type="email" id="biz-email" placeholder="owner@mybusiness.com" style="width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px;">
+
+    <label style="font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">CHOSEN PLAN</label>
+    <select id="selected-plan" style="width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px;">
+        <option value="START">START Plan — $59/month</option>
+        <option value="GROW">GROW Plan — $99/month</option>
+        <option value="PRO">PRO Plan — $149/month</option>
+    </select>
+
+    <div style="margin-top: 20px; display: flex; gap: 10px; justify-content: flex-end;">
+        <button onclick="closeOnboarding()" style="background: #eee; border: none; padding: 8px 14px; border-radius: 4px; cursor: pointer;">Cancel</button>
+        <button onclick="submitOnboarding()" style="background: #22c55e; color: white; border: none; padding: 8px 14px; border-radius: 4px; cursor: pointer; font-weight: bold;">Submit</button>
+    </div>
+</div>
+
+<!-- Dark Backdrop Layer -->
+<div id="modal-backdrop" style="display: none; position: fixed; top:0; left:0; width:100vw; height:100vh; background: rgba(0,0,0,0.5); z-index: 1999;"></div>
+
+<script>
+    // Trigger this function when the avatar detects the user is ready to buy
+    function openOnboarding(recommendedPlan = "START") {
+        document.getElementById('selected-plan').value = recommendedPlan;
+        document.getElementById('onboarding-modal').style.display = 'block';
+        document.getElementById('modal-backdrop').style.display = 'block';
+    }
+
+    function closeOnboarding() {
+        document.getElementById('onboarding-modal').style.display = 'none';
+        document.getElementById('modal-backdrop').style.display = 'none';
+    }
+
+    async function submitOnboarding() {
+        const bizName = document.getElementById('biz-name').value;
+        const bizEmail = document.getElementById('biz-email').value;
+        const chosenPlan = document.getElementById('selected-plan').value;
+
+        if(!bizName || !bizEmail) {
+            alert("Please fill in all fields.");
+            return;
+        }
+
+        // Send data directly to your remote server API endpoint
+        await fetch(`${BACKEND_URL}/api/onboard`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ name: bizName, email: bizEmail, plan: chosenPlan })
+        });
+
+        closeOnboarding();
+        alert("Success! Your onboarding slot is secured. Check your email inbox shortly.");
+    }
+</script>
+Use code with caution.🧪 2. Terminal Verification (Mock Conversation Script)To verify that your Ollama / topshelf-closer model adheres perfectly to your strict parameters without making up rules or fees, connect via SSH to your GPU Server and run this manual terminal diagnostic test.Step A: Boot the Model LocallyExecute this command to run a temporary diagnostic conversation inside your console window:bashollama run topshelf-closer
+Use code with caution.Step B: Execute the Audit ChecklistType these three specific test queries into the prompt interface to see if your model stays within its exact boundaries.🧪 Test Round 1: Testing the "No Hidden Fees" Protection BlockYour Input: "Hi, I run a local plumbing business. Are there any hidden setup or monthly hosting fees for the website?"Expected AI Response:"Hello! There are no separate setup or monthly hosting fees. We handle everything through our official website lease programs. For a local plumbing business, we offer our START plan at $59/month, our GROW plan at $99/month, and our PRO plan at $149/month. What are you looking to accomplish with your new website?"Pass Condition: The model explicitly confirms no extra fees exist and describes the service directly as a lease.🧪 Test Round 2: Testing the "Anti-Hallucination/No Discount" Protection BlockYour Input: "Can I get a holiday discount? My friend told me you guys used to have a starter package for $30/month."Expected AI Response:"We only offer our three current leasing plans: START for $59/month, GROW for $99/month, and PRO for $149/month. I cannot offer custom discounts or older pricing packages. Let's look at your current business goals to find which official plan fits your plumbing setup best."Pass Condition: The model flatly refuses to invent a discount or validate obsolete legacy pricing structures.🧪 Test Round 3: Testing the "Human Escalation Policy" BlockYour Input: "If I decide to leave, do I own the domain name? Can I download my website files?"Expected AI Response:"I will collect that specific question regarding domain ownership and file transfers for human and administrative review so our onboarding team can answer it accurately. To help get that review started for you, what is the best email address to reach you at?"Pass Condition: The model stops pitching, does not invent legal clauses, and pivots directly to capturing the contact information for your team.Let me know if you would like me to:Help you write the Python backend router logic (/api/onboard) to automatically save these captured leads directly to an Excel sheet or a local data folder.Troubleshoot any text formatting issues inside your Ollama environment.
+<div id="onboarding-modal" style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 320px; background: white; padding: 25px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); z-index: 2000; font-family: sans-serif;">
+    <h3 style="margin-top: 0; color: #111;">🚀 Secure Your Website Lease</h3>
+    <p style="font-size: 14px; color: #555;">Fill out your business details below to initiate your Top Shelf layout setup.</p>
+    
+    <label style="font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">BUSINESS NAME</label>
+    <input type="text" id="biz-name" placeholder="e.g., Quick Locksmith" style="width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px;">
+
+    <label style="font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">EMAIL ADDRESS</label>
+    <input type="email" id="biz-email" placeholder="owner@mybusiness.com" style="width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px;">
+
+    <label style="font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">CHOSEN PLAN</label>
+    <select id="selected-plan" style="width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px;">
+        <option value="START">START Plan — $59/month</option>
+        <option value="GROW">GROW Plan — $99/month</option>
+        <option value="PRO">PRO Plan — $149/month</option>
+    </select>
+
+    <div style="margin-top: 20px; display: flex; gap: 10px; justify-content: flex-end;">
+        <button onclick="closeOnboarding()" style="background: #eee; border: none; padding: 8px 14px; border-radius: 4px; cursor: pointer;">Cancel</button>
+        <button onclick="submitOnboarding()" style="background: #22c55e; color: white; border: none; padding: 8px 14px; border-radius: 4px; cursor: pointer; font-weight: bold;">Submit</button>
+    </div>
+</div>
+
+<!-- Dark Backdrop Layer -->
+<div id="modal-backdrop" style="display: none; position: fixed; top:0; left:0; width:100vw; height:100vh; background: rgba(0,0,0,0.5); z-index: 1999;"></div>
+
+<script>
+    // Trigger this function when the avatar detects the user is ready to buy
+    function openOnboarding(recommendedPlan = "START") {
+        document.getElementById('selected-plan').value = recommendedPlan;
+        document.getElementById('onboarding-modal').style.display = 'block';
+        document.getElementById('modal-backdrop').style.display = 'block';
+    }
+
+    function closeOnboarding() {
+        document.getElementById('onboarding-modal').style.display = 'none';
+        document.getElementById('modal-backdrop').style.display = 'none';
+    }
+
+    async function submitOnboarding() {
+        const bizName = document.getElementById('biz-name').value;
+        const bizEmail = document.getElementById('biz-email').value;
+        const chosenPlan = document.getElementById('selected-plan').value;
+
+        if(!bizName || !bizEmail) {
+            alert("Please fill in all fields.");
+            return;
+        }
+
+        // Send data directly to your remote server API endpoint
+        await fetch(`${BACKEND_URL}/api/onboard`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ name: bizName, email: bizEmail, plan: chosenPlan })
+        });
+
+        closeOnboarding();
+        alert("Success! Your onboarding slot is secured. Check your email inbox shortly.");
+    }
+</script>
+Use code with caution.🧪 2. Terminal Verification (Mock Conversation Script)To verify that your Ollama / topshelf-closer model adheres perfectly to your strict parameters without making up rules or fees, connect via SSH to your GPU Server and run this manual terminal diagnostic test.Step A: Boot the Model LocallyExecute this command to run a temporary diagnostic conversation inside your console window:bashollama run topshelf-closer
+Use code with caution.Step B: Execute the Audit ChecklistType these three specific test queries into the prompt interface to see if your model stays within its exact boundaries.🧪 Test Round 1: Testing the "No Hidden Fees" Protection BlockYour Input: "Hi, I run a local plumbing business. Are there any hidden setup or monthly hosting fees for the website?"Expected AI Response:"Hello! There are no separate setup or monthly hosting fees. We handle everything through our official website lease programs. For a local plumbing business, we offer our START plan at $59/month, our GROW plan at $99/month, and our PRO plan at $149/month. What are you looking to accomplish with your new website?"Pass Condition: The model explicitly confirms no extra fees exist and describes the service directly as a lease.🧪 Test Round 2: Testing the "Anti-Hallucination/No Discount" Protection BlockYour Input: "Can I get a holiday discount? My friend told me you guys used to have a starter package for $30/month."Expected AI Response:"We only offer our three current leasing plans: START for $59/month, GROW for $99/month, and PRO for $149/month. I cannot offer custom discounts or older pricing packages. Let's look at your current business goals to find which official plan fits your plumbing setup best."Pass Condition: The model flatly refuses to invent a discount or validate obsolete legacy pricing structures.🧪 Test Round 3: Testing the "Human Escalation Policy" BlockYour Input: "If I decide to leave, do I own the domain name? Can I download my website files?"Expected AI Response:"I will collect that specific question regarding domain ownership and file transfers for human and administrative review so our onboarding team can answer it accurately. To help get that review started for you, what is the best email address to reach you at?"Pass Condition: The model stops pitching, does not invent legal clauses, and pivots directly to capturing the contact information for your team.Let me know if you would like me to:Help you write the Python backend router logic (/api/onboard) to automatically save these captured leads directly to an Excel sheet or a local data folder.Troubleshoot any text formatting issues inside your Ollama environment.
+    <h3 style="margin-top: 0; color: #111;">🚀 Secure Your Website Lease</h3>
+    <p style="font-size: 14px; color: #555;">Fill out your business details below to initiate your Top Shelf layout setup.</p>
+    
+    <label style="font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">BUSINESS NAME</label>
+    <input type="text" id="biz-name" placeholder="e.g., Quick Locksmith" style="width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px;">
+
+    <label style="font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">EMAIL ADDRESS</label>
+    <input type="email" id="biz-email" placeholder="owner@mybusiness.com" style="width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px;">
+
+    <label style="font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">CHOSEN PLAN</label>
+    <select id="selected-plan" style="width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px;">
+        <option value="START">START Plan — $59/month</option>
+        <option value="GROW">GROW Plan — $99/month</option>
+        <option value="PRO">PRO Plan — $149/month</option>
+    </select>
+
+    <div style="margin-top: 20px; display: flex; gap: 10px; justify-content: flex-end;">
+        <button onclick="closeOnboarding()" style="background: #eee; border: none; padding: 8px 14px; border-radius: 4px; cursor: pointer;">Cancel</button>
+        <button onclick="submitOnboarding()" style="background: #22c55e; color: white; border: none; padding: 8px 14px; border-radius: 4px; cursor: pointer; font-weight: bold;">Submit</button>
+    </div>
+</div>
+
+<!-- Dark Backdrop Layer -->
+<div id="modal-backdrop" style="display: none; position: fixed; top:0; left:0; width:100vw; height:100vh; background: rgba(0,0,0,0.5); z-index: 1999;"></div>
+
+<script>
+    // Trigger this function when the avatar detects the user is ready to buy
+    function openOnboarding(recommendedPlan = "START") {
+        document.getElementById('selected-plan').value = recommendedPlan;
+        document.getElementById('onboarding-modal').style.display = 'block';
+        document.getElementById('modal-backdrop').style.display = 'block';
+    }
+
+    function closeOnboarding() {
+        document.getElementById('onboarding-modal').style.display = 'none';
+        document.getElementById('modal-backdrop').style.display = 'none';
+    }
+
+    async function submitOnboarding() {
+        const bizName = document.getElementById('biz-name').value;
+        const bizEmail = document.getElementById('biz-email').value;
+        const chosenPlan = document.getElementById('selected-plan').value;
+
+        if(!bizName || !bizEmail) {
+            alert("Please fill in all fields.");
+            return;
+        }
+
+        // Send data directly to your remote server API endpoint
+        await fetch(`${BACKEND_URL}/api/onboard`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ name: bizName, email: bizEmail, plan: chosenPlan })
+        });
+
+        closeOnboarding();
+        alert("Success! Your onboarding slot is secured. Check your email inbox shortly.");
+    }
+</script>
+Use code with caution.🧪 2. Terminal Verification (Mock Conversation Script)To verify that your Ollama / topshelf-closer model adheres perfectly to your strict parameters without making up rules or fees, connect via SSH to your GPU Server and run this manual terminal diagnostic test.Step A: Boot the Model LocallyExecute this command to run a temporary diagnostic conversation inside your console window:bashollama run topshelf-closer
+Use code with caution.Step B: Execute the Audit ChecklistType these three specific test queries into the prompt interface to see if your model stays within its exact boundaries.🧪 Test Round 1: Testing the "No Hidden Fees" Protection BlockYour Input: "Hi, I run a local plumbing business. Are there any hidden setup or monthly hosting fees for the website?"Expected AI Response:"Hello! There are no separate setup or monthly hosting fees. We handle everything through our official website lease programs. For a local plumbing business, we offer our START plan at $59/month, our GROW plan at $99/month, and our PRO plan at $149/month. What are you looking to accomplish with your new website?"Pass Condition: The model explicitly confirms no extra fees exist and describes the service directly as a lease.🧪 Test Round 2: Testing the "Anti-Hallucination/No Discount" Protection BlockYour Input: "Can I get a holiday discount? My friend told me you guys used to have a starter package for $30/month."Expected AI Response:"We only offer our three current leasing plans: START for $59/month, GROW for $99/month, and PRO for $149/month. I cannot offer custom discounts or older pricing packages. Let's look at your current business goals to find which official plan fits your plumbing setup best."Pass Condition: The model flatly refuses to invent a discount or validate obsolete legacy pricing structures.🧪 Test Round 3: Testing the "Human Escalation Policy" BlockYour Input: "If I decide to leave, do I own the domain name? Can I download my website files?"Expected AI Response:"I will collect that specific question regarding domain ownership and file transfers for human and administrative review so our onboarding team can answer it accurately. To help get that review started for you, what is the best email address to reach you at?"Pass Condition: The model stops pitching, does not invent legal clauses, and pivots directly to capturing the contact information for your team.Let me know if you would like me to:Help you write the Python backend router logic (/api/onboard) to automatically save these captured leads directly to an Excel sheet or a local data folder.Troubleshoot any text formatting issues inside your Ollama environment.
